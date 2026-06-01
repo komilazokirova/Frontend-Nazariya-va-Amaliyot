@@ -6,3 +6,5 @@ Semantik HTML — bu veb-sahifa elementlarining ma'nosini ham brauzerga, ham qid
 * `<header>`: Sahifa yoki bo'lim sarlavhasi, navigatsiya va logotiplar.
 * `<nav>`: Asosiy navigatsiya havolalari to'plami.
 * `<main>`: Sahifadagi asosiy, takrorlanmas unikal kontent.
+* `<article>`: Mustaqil, alohida ma'noga ega bo'lgan maqola, post yoki kartochka.
+* `<section>`: Tematik jihatdan birlashgan kontent bo'limi (sarlavhasi bo'lishi shart).
