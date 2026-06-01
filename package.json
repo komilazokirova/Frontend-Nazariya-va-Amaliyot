@@ -1,0 +1,15 @@
+{
+  "name": "frontend-mastery-darslar",
+  "version": "1.0.0",
+  "description": "Frontend dasturlash bo'yicha to'liq nazariy konspektlar va amaliy loyihalar (HTML5, CSS3, JS, TS, React 19, Zustand, Next.js)",
+  "scripts": {
+    "test": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "author": "Komila Zokirova <zokirovakomila500@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "vitest": "^2.1.0"
+  }
+}
