@@ -1,4 +1,4 @@
-# HTML5 Semantik Teglari, SEO va Accessibility (a11y) Arxitekturasi
+# 🌐 HTML5 Semantik Teglari, SEO va Accessibility (a11y)
 
-*Yuklangan sana: 2026-06-01*
+Semantik HTML — bu veb-sahifa elementlarining ma'nosini ham brauzerga, ham qidiruv tizimlariga (SEO), ham ekran o'quvchi (Screen Reader) dasturlariga aniq bildirib turuvchi standartdir.
 
