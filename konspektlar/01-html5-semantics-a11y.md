@@ -10,3 +10,8 @@ Semantik HTML — bu veb-sahifa elementlarining ma'nosini ham brauzerga, ham qid
 * `<section>`: Tematik jihatdan birlashgan kontent bo'limi (sarlavhasi bo'lishi shart).
 * `<aside>`: Qo'shimcha ma'lumotlar (sidebar, reklamalar, o'xshash havolalar).
 * `<footer>`: Mualliflik huquqi, aloqa ma'lumotlari va sahifa yakuni.
+
+## ♿ Accessibility (ARIA) Qoidalari:
+1. `role` va `aria-*` atributlarini faqat semantik teglar yetarli bo'lmaganda qo'llash (First Rule of ARIA: Don't use ARIA if semantic HTML exists).
+2. Rasmlarga har doim ma'noli `alt` atributini berish (dekorativ rasmlar uchun `alt=""`).
+3. Interaktiv elementlar (tugmalar, havolalar) klaviatura orqali boshqarilishi (`tabindex`, `focus-visible`).
