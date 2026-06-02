@@ -8,3 +8,8 @@ export function createFocusTrap(element: HTMLElement) {
   );
 
   const firstElement = focusableElements[0];
+  const lastElement = focusableElements[focusableElements.length - 1];
+
+  function handleKeyDown(e: KeyboardEvent) {
+    if (e.key !== 'Tab') return;
+
