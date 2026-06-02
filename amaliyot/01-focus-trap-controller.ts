@@ -23,3 +23,8 @@ export function createFocusTrap(element: HTMLElement) {
         firstElement.focus();
         e.preventDefault();
       }
+    }
+  }
+
+  element.addEventListener('keydown', handleKeyDown);
+  firstElement?.focus();
