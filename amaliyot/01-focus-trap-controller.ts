@@ -28,3 +28,8 @@ export function createFocusTrap(element: HTMLElement) {
 
   element.addEventListener('keydown', handleKeyDown);
   firstElement?.focus();
+
+  return {
+    release: () => element.removeEventListener('keydown', handleKeyDown)
+  };
+}
