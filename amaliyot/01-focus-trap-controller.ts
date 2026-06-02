@@ -13,3 +13,8 @@ export function createFocusTrap(element: HTMLElement) {
   function handleKeyDown(e: KeyboardEvent) {
     if (e.key !== 'Tab') return;
 
+    if (e.shiftKey) {
+      if (document.activeElement === firstElement) {
+        lastElement.focus();
+        e.preventDefault();
+      }
