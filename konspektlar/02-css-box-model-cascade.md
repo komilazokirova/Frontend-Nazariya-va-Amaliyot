@@ -1,4 +1,6 @@
-# CSS Box Model, Specificity (O'ziga xoslik) va Cascade Mexanizmi
+# 📦 CSS Box Model, Specificity va Cascade Mexanizmi
 
-*Yuklangan sana: 2026-06-03*
+Har bir HTML elementi brauzer tomonidan to'rtburchak quti (box) sifatida render qilinadi.
 
+## 1. Box Model qatlamlari:
+* **Content**: Elementning asosiy matni yoki tasviri.
