@@ -13,3 +13,6 @@ Har bir HTML elementi brauzer tomonidan to'rtburchak quti (box) sifatida render 
 | Selektor turi | Vazni | Misol |
 | :--- | :--- | :--- |
 | Inline styles | 1000 | `style="color: red"` |
+| IDs | 100 | `#header` |
+| Classes, attributes, pseudo-classes | 10 | `.btn`, `[type="text"]`, `:hover` |
+| Elements, pseudo-elements | 1 | `div`, `p`, `::before` |
