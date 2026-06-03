@@ -4,3 +4,4 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 2026-06-01 | Dushanba | 📚 Nazariya | HTML5 Semantik Teglari, SEO va Accessibility (a11y) Arxitekturasi | [01-html5-semantics-a11y.md](konspektlar/01-html5-semantics-a11y.md) | ✅ Bajarildi |
 | 2026-06-02 | Seshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller | [01-focus-trap-controller.ts](amaliyot/01-focus-trap-controller.ts) | ✅ Bajarildi |
+| 2026-06-03 | Chorshanba | 📚 Nazariya | CSS Box Model, Specificity (O'ziga xoslik) va Cascade Mexanizmi | [02-css-box-model-cascade.md](konspektlar/02-css-box-model-cascade.md) | ✅ Bajarildi |
