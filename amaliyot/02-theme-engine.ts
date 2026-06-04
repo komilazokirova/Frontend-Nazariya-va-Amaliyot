@@ -26,3 +26,4 @@ export class ThemeEngine {
   public getTheme(): ThemeMode {
     return this.currentTheme;
   }
+}
