@@ -19,3 +19,10 @@ export class ThemeEngine {
     const isDark =
       mode === 'dark' ||
       (mode === 'system' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+
+    document.documentElement.classList.toggle('dark', isDark);
+  }
+
+  public getTheme(): ThemeMode {
+    return this.currentTheme;
+  }
