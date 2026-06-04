@@ -12,3 +12,10 @@ export class ThemeEngine {
     this.setTheme(saved || 'system');
   }
 
+  public setTheme(mode: ThemeMode) {
+    this.currentTheme = mode;
+    localStorage.setItem(this.storageKey, mode);
+
+    const isDark =
+      mode === 'dark' ||
+      (mode === 'system' && window.matchMedia('(prefers-color-scheme: dark)').matches);
