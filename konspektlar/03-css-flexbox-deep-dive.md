@@ -1,4 +1,6 @@
-# CSS Flexbox Chuqurlashtirilgan Arxitekturasi va Alignment
+# 📐 CSS Flexbox Chuqurlashtirilgan Arxitekturasi
 
-*Yuklangan sana: 2026-06-05*
+Flexbox bir o'lchamli (1D: qator yoki ustun) elementlarni tekislash va bo'sh joylarni taqsimlash uchun mo'ljallangan.
 
+## Asosiy o'qlar:
+* **Main Axis (Asosiy o'q)**: `flex-direction: row` bo'lsa gorizontal, `column` bo'lsa vertikal.
