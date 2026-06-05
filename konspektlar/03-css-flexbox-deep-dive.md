@@ -10,3 +10,5 @@ Flexbox bir o'lchamli (1D: qator yoki ustun) elementlarni tekislash va bo'sh joy
 * `justify-content`: Asosiy o'q bo'ylab elementlarni tekislash (`flex-start`, `center`, `space-between`, `space-around`, `space-evenly`).
 * `align-items`: Ko'ndalang o'q bo'ylab barcha elementlarni tekislash (`stretch`, `center`, `flex-start`, `flex-end`, `baseline`).
 * `flex: flex-grow flex-shrink flex-basis`:
+  - `flex: 1 1 auto`: Moslashuvchan va qisqaruvchi.
+  - `flex: 0 0 300px`: Qat'iy 300px kenglik.
