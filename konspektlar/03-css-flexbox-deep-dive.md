@@ -4,3 +4,6 @@ Flexbox bir o'lchamli (1D: qator yoki ustun) elementlarni tekislash va bo'sh joy
 
 ## Asosiy o'qlar:
 * **Main Axis (Asosiy o'q)**: `flex-direction: row` bo'lsa gorizontal, `column` bo'lsa vertikal.
+* **Cross Axis (Ko'ndalang o'q)**: Asosiy o'qqa perpendikulyar yo'nalish.
+
+## Kalit xususiyatlar:
