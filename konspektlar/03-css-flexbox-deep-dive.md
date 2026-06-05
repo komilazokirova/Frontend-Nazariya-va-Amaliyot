@@ -7,3 +7,6 @@ Flexbox bir o'lchamli (1D: qator yoki ustun) elementlarni tekislash va bo'sh joy
 * **Cross Axis (Ko'ndalang o'q)**: Asosiy o'qqa perpendikulyar yo'nalish.
 
 ## Kalit xususiyatlar:
+* `justify-content`: Asosiy o'q bo'ylab elementlarni tekislash (`flex-start`, `center`, `space-between`, `space-around`, `space-evenly`).
+* `align-items`: Ko'ndalang o'q bo'ylab barcha elementlarni tekislash (`stretch`, `center`, `flex-start`, `flex-end`, `baseline`).
+* `flex: flex-grow flex-shrink flex-basis`:
