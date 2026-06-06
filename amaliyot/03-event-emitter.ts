@@ -1,4 +1,6 @@
-# Type-Safe Event Emitter (Pub/Sub) Pattern in TypeScript
+type EventCallback<T = any> = (payload: T) => void;
 
-*Yuklangan sana: 2026-06-06*
+export class TypedEventEmitter<Events extends Record<string, any>> {
+  private listeners: { [K in keyof Events]?: EventCallback<Events[K]>[] } = {};
 
+  on<K extends keyof Events>(event: K, callback: EventCallback<Events[K]>): () => void {
