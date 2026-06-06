@@ -7,3 +7,6 @@ export class TypedEventEmitter<Events extends Record<string, any>> {
     if (!this.listeners[event]) {
       this.listeners[event] = [];
     }
+    this.listeners[event]!.push(callback);
+    return () => this.off(event, callback);
+  }
