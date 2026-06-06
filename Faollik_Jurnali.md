@@ -7,3 +7,4 @@
 | 2026-06-03 | Chorshanba | 📚 Nazariya | CSS Box Model, Specificity (O'ziga xoslik) va Cascade Mexanizmi | [02-css-box-model-cascade.md](konspektlar/02-css-box-model-cascade.md) | ✅ Bajarildi |
 | 2026-06-04 | Payshanba | 💻 Amaliyot | Dynamic Theme Engine va CSS Variables Controller | [02-theme-engine.ts](amaliyot/02-theme-engine.ts) | ✅ Bajarildi |
 | 2026-06-05 | Juma | 📚 Nazariya | CSS Flexbox Chuqurlashtirilgan Arxitekturasi va Alignment | [03-css-flexbox-deep-dive.md](konspektlar/03-css-flexbox-deep-dive.md) | ✅ Bajarildi |
+| 2026-06-06 | Shanba | 💻 Amaliyot | Type-Safe Event Emitter (Pub/Sub) Pattern in TypeScript | [03-event-emitter.ts](amaliyot/03-event-emitter.ts) | ✅ Bajarildi |
