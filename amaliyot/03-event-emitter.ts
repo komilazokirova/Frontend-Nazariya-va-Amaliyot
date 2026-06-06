@@ -16,3 +16,7 @@ export class TypedEventEmitter<Events extends Record<string, any>> {
     this.listeners[event] = this.listeners[event]!.filter(cb => cb !== callback);
   }
 
+  emit<K extends keyof Events>(event: K, payload: Events[K]): void {
+    this.listeners[event]?.forEach(cb => cb(payload));
+  }
+}
