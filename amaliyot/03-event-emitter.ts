@@ -10,3 +10,6 @@ export class TypedEventEmitter<Events extends Record<string, any>> {
     this.listeners[event]!.push(callback);
     return () => this.off(event, callback);
   }
+
+  off<K extends keyof Events>(event: K, callback: EventCallback<Events[K]>): void {
+    if (!this.listeners[event]) return;
