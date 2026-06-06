@@ -13,3 +13,6 @@ export class TypedEventEmitter<Events extends Record<string, any>> {
 
   off<K extends keyof Events>(event: K, callback: EventCallback<Events[K]>): void {
     if (!this.listeners[event]) return;
+    this.listeners[event] = this.listeners[event]!.filter(cb => cb !== callback);
+  }
+
