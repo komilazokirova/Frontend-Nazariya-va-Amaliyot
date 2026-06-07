@@ -8,3 +8,4 @@
 | 2026-06-04 | Payshanba | 💻 Amaliyot | Dynamic Theme Engine va CSS Variables Controller | [02-theme-engine.ts](amaliyot/02-theme-engine.ts) | ✅ Bajarildi |
 | 2026-06-05 | Juma | 📚 Nazariya | CSS Flexbox Chuqurlashtirilgan Arxitekturasi va Alignment | [03-css-flexbox-deep-dive.md](konspektlar/03-css-flexbox-deep-dive.md) | ✅ Bajarildi |
 | 2026-06-06 | Shanba | 💻 Amaliyot | Type-Safe Event Emitter (Pub/Sub) Pattern in TypeScript | [03-event-emitter.ts](amaliyot/03-event-emitter.ts) | ✅ Bajarildi |
+| 2026-06-07 | Yakshanba | 📚 Nazariya | CSS Grid: Subgrid, Auto-fill vs Auto-fit va Template Areas | [04-css-grid-architecture.md](konspektlar/04-css-grid-architecture.md) | ✅ Bajarildi |
