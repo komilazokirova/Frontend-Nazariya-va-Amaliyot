@@ -22,3 +22,4 @@ export function throttle<T extends (...args: any[]) => any>(fn: T, limit: number
       setTimeout(() => (inThrottle = false), limit);
     }
   };
+}
