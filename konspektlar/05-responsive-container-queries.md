@@ -8,3 +8,8 @@ Container Queries esa komponentning **o'zining konteyner kengligiga** qarab stil
 .card-wrapper {
   container-type: inline-size;
   container-name: card;
+}
+
+@container card (min-width: 450px) {
+  .card {
+    display: flex;
