@@ -18,3 +18,6 @@ Container Queries esa komponentning **o'zining konteyner kengligiga** qarab stil
 }
 ```
 
+## Modern Viewport Units:
+* `dvh`, `dvw` (Dynamic Viewport): Mobil brauzerlarda manzil qatori (URL bar) ochilib-yopilganda sakramaydigan dinamik birliklar.
+* `svh` (Smallest Viewport), `lvh` (Largest Viewport).
