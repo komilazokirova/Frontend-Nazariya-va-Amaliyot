@@ -10,3 +10,4 @@
 | 2026-06-06 | Shanba | 💻 Amaliyot | Type-Safe Event Emitter (Pub/Sub) Pattern in TypeScript | [03-event-emitter.ts](amaliyot/03-event-emitter.ts) | ✅ Bajarildi |
 | 2026-06-07 | Yakshanba | 📚 Nazariya | CSS Grid: Subgrid, Auto-fill vs Auto-fit va Template Areas | [04-css-grid-architecture.md](konspektlar/04-css-grid-architecture.md) | ✅ Bajarildi |
 | 2026-06-08 | Dushanba | 💻 Amaliyot | High-Performance Custom Debounce va Throttle with Cancel | [04-debounce-throttle.ts](amaliyot/04-debounce-throttle.ts) | ✅ Bajarildi |
+| 2026-06-09 | Seshanba | 📚 Nazariya | Responsive Design, Container Queries va Modern Viewport Units | [05-responsive-container-queries.md](konspektlar/05-responsive-container-queries.md) | ✅ Bajarildi |
