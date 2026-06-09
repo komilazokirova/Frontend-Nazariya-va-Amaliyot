@@ -13,3 +13,8 @@ Container Queries esa komponentning **o'zining konteyner kengligiga** qarab stil
 @container card (min-width: 450px) {
   .card {
     display: flex;
+    flex-direction: row;
+  }
+}
+```
+
