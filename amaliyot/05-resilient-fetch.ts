@@ -10,3 +10,9 @@ export async function fetchWithRetry(url: string, options: RequestInit = {}, ret
   for (let attempt = 0; attempt <= retries; attempt++) {
     try {
       const response = await fetch(url, options);
+      if (response.ok || !retryOnStatus.includes(response.status) || attempt === retries) {
+        return response;
+      }
+    } catch (error) {
+      if (attempt === retries) throw error;
+    }
