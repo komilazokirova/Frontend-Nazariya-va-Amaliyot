@@ -16,3 +16,9 @@ export async function fetchWithRetry(url: string, options: RequestInit = {}, ret
     } catch (error) {
       if (attempt === retries) throw error;
     }
+
+    const wait = backoffMs * Math.pow(2, attempt);
+    await new Promise(r => setTimeout(r, wait));
+  }
+
+  throw new Error('Maksimal urinishlar tugadi');
