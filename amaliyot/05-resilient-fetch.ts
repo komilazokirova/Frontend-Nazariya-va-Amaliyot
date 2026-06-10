@@ -22,3 +22,4 @@ export async function fetchWithRetry(url: string, options: RequestInit = {}, ret
   }
 
   throw new Error('Maksimal urinishlar tugadi');
+}
