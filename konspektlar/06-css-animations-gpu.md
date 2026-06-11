@@ -7,3 +7,6 @@
 2. **Paint (Repaint)**: Ranglar, soyalar chizish (`background`, `color`, `box-shadow`).
 3. **Composite (GPU)**: Qatlamlarni birlashtirish (`transform`, `opacity`, `filter`). **Eng tez va yengil!**
 
+## Oltin qoida:
+Har doim animatsiyalarni faqat **`transform`** va **`opacity`** orqali bajaring!
+`will-change: transform` faqat kerakli vaziyatlarda GPU qatlamini (layer) oldindan tayyorlash uchun ishlatiladi.
