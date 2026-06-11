@@ -12,3 +12,4 @@
 | 2026-06-08 | Dushanba | 💻 Amaliyot | High-Performance Custom Debounce va Throttle with Cancel | [04-debounce-throttle.ts](amaliyot/04-debounce-throttle.ts) | ✅ Bajarildi |
 | 2026-06-09 | Seshanba | 📚 Nazariya | Responsive Design, Container Queries va Modern Viewport Units | [05-responsive-container-queries.md](konspektlar/05-responsive-container-queries.md) | ✅ Bajarildi |
 | 2026-06-10 | Chorshanba | 💻 Amaliyot | Resilient Fetch Client with Exponential Backoff and Retry | [05-resilient-fetch.ts](amaliyot/05-resilient-fetch.ts) | ✅ Bajarildi |
+| 2026-06-11 | Payshanba | 📚 Nazariya | CSS Animations, Transitions va GPU Hardware Acceleration | [06-css-animations-gpu.md](konspektlar/06-css-animations-gpu.md) | ✅ Bajarildi |
