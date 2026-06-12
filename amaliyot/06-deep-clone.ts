@@ -10,3 +10,7 @@ export function deepClone<T>(obj: T, hash = new WeakMap()): T {
 
   for (const key of Reflect.ownKeys(obj as any)) {
     result[key] = deepClone((obj as any)[key], hash);
+  }
+
+  return result;
+}
