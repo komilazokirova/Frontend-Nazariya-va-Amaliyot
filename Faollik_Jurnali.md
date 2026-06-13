@@ -14,3 +14,4 @@
 | 2026-06-10 | Chorshanba | 💻 Amaliyot | Resilient Fetch Client with Exponential Backoff and Retry | [05-resilient-fetch.ts](amaliyot/05-resilient-fetch.ts) | ✅ Bajarildi |
 | 2026-06-11 | Payshanba | 📚 Nazariya | CSS Animations, Transitions va GPU Hardware Acceleration | [06-css-animations-gpu.md](konspektlar/06-css-animations-gpu.md) | ✅ Bajarildi |
 | 2026-06-12 | Juma | 💻 Amaliyot | Deep Clone with Circular Reference Handling and Structured Clone Fallback | [06-deep-clone.ts](amaliyot/06-deep-clone.ts) | ✅ Bajarildi |
+| 2026-06-13 | Shanba | 📚 Nazariya | Tailwind CSS v4 Arxitekturasi, JIT Engine va Utility-first | [07-tailwind-v4-architecture.md](konspektlar/07-tailwind-v4-architecture.md) | ✅ Bajarildi |
