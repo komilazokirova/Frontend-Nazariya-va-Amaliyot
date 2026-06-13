@@ -7,3 +7,6 @@ Tailwind CSS v4 — Oxide dvigateli (Rust) bilan qayta yozilgan yangi avlod CSS 
 2. 10 barobar tezroq kompilyatsiya tezligi.
 3. CSS native `@property` va zamonaviy ranglar (OKLCH) bilan ishlash.
 
+## Best Practices:
+* `clsx` va `tailwind-merge` (`cn` yordamchisi) orqali dinamik sinflarni to'qnashuvlarsiz birlashtirish.
+* Arbitrary values (`w-[123px]`) dan me'yorida foydalanish, dizayn tokenlariga suyanish.
