@@ -22,3 +22,11 @@ export class AsyncQueue {
     if (this.running >= this.concurrency || this.queue.length === 0) return;
     this.running++;
     const nextTask = this.queue.shift()!;
+    try {
+      await nextTask();
+    } finally {
+      this.running--;
+      this.runNext();
+    }
+  }
+}
