@@ -14,3 +14,11 @@ export class AsyncQueue {
           reject(err);
         }
       });
+      this.runNext();
+    });
+  }
+
+  private async runNext() {
+    if (this.running >= this.concurrency || this.queue.length === 0) return;
+    this.running++;
+    const nextTask = this.queue.shift()!;
