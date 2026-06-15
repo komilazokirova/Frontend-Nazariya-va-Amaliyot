@@ -1,4 +1,6 @@
-# Critical Rendering Path (CRP), Reflow va Repaint Tahlili
+# 🏎️ Critical Rendering Path (CRP), Reflow va Repaint
 
-*Yuklangan sana: 2026-06-15*
+Brauzer HTML va CSS dan foydalanuvchi ko'radigan piksellargacha bo'lgan yo'li:
 
+1. **DOM (Document Object Model)** qurilishi.
+2. **CSSOM (CSS Object Model)** qurilishi.
