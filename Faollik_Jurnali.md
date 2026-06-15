@@ -16,3 +16,4 @@
 | 2026-06-12 | Juma | 💻 Amaliyot | Deep Clone with Circular Reference Handling and Structured Clone Fallback | [06-deep-clone.ts](amaliyot/06-deep-clone.ts) | ✅ Bajarildi |
 | 2026-06-13 | Shanba | 📚 Nazariya | Tailwind CSS v4 Arxitekturasi, JIT Engine va Utility-first | [07-tailwind-v4-architecture.md](konspektlar/07-tailwind-v4-architecture.md) | ✅ Bajarildi |
 | 2026-06-14 | Yakshanba | 💻 Amaliyot | Async Task Queue with Concurrency Pool Limit | [07-task-queue.ts](amaliyot/07-task-queue.ts) | ✅ Bajarildi |
+| 2026-06-15 | Dushanba | 📚 Nazariya | Critical Rendering Path (CRP), Reflow va Repaint Tahlili | [08-critical-rendering-path.md](konspektlar/08-critical-rendering-path.md) | ✅ Bajarildi |
