@@ -10,3 +10,6 @@ Brauzer HTML va CSS dan foydalanuvchi ko'radigan piksellargacha bo'lgan yo'li:
 6. **Compositing**: Qatlamlar GPU orqali ekranga chiqariladi.
 
 ### Reflow keltirib chiqaruvchi amallar:
+* `offsetWidth`, `clientHeight`, `getBoundingClientRect()` o'qish.
+* DOM elementlarini qo'shish yoki o'chirish.
+* Shriftslarni o'zgartirish.
