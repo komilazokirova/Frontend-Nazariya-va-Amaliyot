@@ -1,4 +1,10 @@
-# LRU (Least Recently Used) Cache Implementation in TypeScript
+export class LRUCache<K, V> {
+  private cache = new Map<K, V>();
 
-*Yuklangan sana: 2026-06-16*
+  constructor(private capacity: number) {}
 
+  get(key: K): V | undefined {
+    if (!this.cache.has(key)) return undefined;
+    const value = this.cache.get(key)!;
+    this.cache.delete(key);
+    this.cache.set(key, value);
