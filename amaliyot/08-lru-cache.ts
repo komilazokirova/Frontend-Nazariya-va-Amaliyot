@@ -18,3 +18,6 @@ export class LRUCache<K, V> {
       const oldestKey = this.cache.keys().next().value;
       if (oldestKey !== undefined) this.cache.delete(oldestKey);
     }
+    this.cache.set(key, value);
+  }
+}
