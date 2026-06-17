@@ -4,3 +4,5 @@ Google tomonidan veb-saytlar tezligi va qulayligini baholovchi 3 ta asosiy metri
 
 1. **LCP (Largest Contentful Paint)**: Sahifadagi eng katta vizual element (rasm, video yoki sarlavha) qachon to'liq ko'rindi?
    - Yaxshi: < 2.5s.
+2. **INP (Interaction to Next Paint)**: Foydalanuvchi tugmani bosganda ekrandagi o'zgarish qanchalik tez sodir bo'ldi? (FID o'rniga kelgan).
+   - Yaxshi: < 200ms.
