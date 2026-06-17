@@ -1,4 +1,4 @@
-# Core Web Vitals: LCP, INP, CLS va Foydalanuvchi Tajribasi
+# 📊 Core Web Vitals: LCP, INP va CLS
 
-*Yuklangan sana: 2026-06-17*
+Google tomonidan veb-saytlar tezligi va qulayligini baholovchi 3 ta asosiy metrika:
 
