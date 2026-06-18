@@ -19,3 +19,4 @@
 | 2026-06-15 | Dushanba | 📚 Nazariya | Critical Rendering Path (CRP), Reflow va Repaint Tahlili | [08-critical-rendering-path.md](konspektlar/08-critical-rendering-path.md) | ✅ Bajarildi |
 | 2026-06-16 | Seshanba | 💻 Amaliyot | LRU (Least Recently Used) Cache Implementation in TypeScript | [08-lru-cache.ts](amaliyot/08-lru-cache.ts) | ✅ Bajarildi |
 | 2026-06-17 | Chorshanba | 📚 Nazariya | Core Web Vitals: LCP, INP, CLS va Foydalanuvchi Tajribasi | [09-core-web-vitals.md](konspektlar/09-core-web-vitals.md) | ✅ Bajarildi |
+| 2026-06-18 | Payshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v9) | [09-01-focus-trap-controller-v9.ts](amaliyot/09-01-focus-trap-controller-v9.ts) | ✅ Bajarildi |
