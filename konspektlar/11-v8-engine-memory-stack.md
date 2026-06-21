@@ -4,3 +4,6 @@ Chrome va Node.js dagi Google V8 dvigatelining ichki arxitekturasi:
 
 ## Asosiy qismlar:
 * **Memory Heap**: Obyektlar, massivlar va funksiyalar uchun dinamik xotira ajratish joyi.
+* **Call Stack**: Sinxron kodlar bajariladigan chaqiruvlar steki (LIFO).
+* **Ignition**: Tezkor JavaScript Interpreter (Baytkod hosil qiladi).
+* **TurboFan**: Eng ko'p ishlatiladigan ("hot") funksiyalarni mashina kodiga kompilyatsiya qiluvchi JIT Compiler.
