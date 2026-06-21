@@ -1,4 +1,6 @@
-# JavaScript V8 Dvigateli, Memory Heap va Call Stack
+# ⚙️ JavaScript V8 Dvigateli: Call Stack va Memory Heap
 
-*Yuklangan sana: 2026-06-21*
+Chrome va Node.js dagi Google V8 dvigatelining ichki arxitekturasi:
 
+## Asosiy qismlar:
+* **Memory Heap**: Obyektlar, massivlar va funksiyalar uchun dinamik xotira ajratish joyi.
