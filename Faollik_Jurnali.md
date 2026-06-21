@@ -22,3 +22,4 @@
 | 2026-06-18 | Payshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v9) | [09-01-focus-trap-controller-v9.ts](amaliyot/09-01-focus-trap-controller-v9.ts) | ✅ Bajarildi |
 | 2026-06-19 | Juma | 📚 Nazariya | Web Fonts Optimizatsiyasi: FOUT, FOIT va Font-Display | [10-web-fonts-optimization.md](konspektlar/10-web-fonts-optimization.md) | ✅ Bajarildi |
 | 2026-06-20 | Shanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v10) | [10-01-focus-trap-controller-v10.ts](amaliyot/10-01-focus-trap-controller-v10.ts) | ✅ Bajarildi |
+| 2026-06-21 | Yakshanba | 📚 Nazariya | JavaScript V8 Dvigateli, Memory Heap va Call Stack | [11-v8-engine-memory-stack.md](konspektlar/11-v8-engine-memory-stack.md) | ✅ Bajarildi |
