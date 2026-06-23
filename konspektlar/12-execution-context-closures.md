@@ -8,3 +8,8 @@ function createCounter() {
   return {
     increment: () => ++count,
     getCount: () => count
+  };
+}
+
+const counter = createCounter();
+console.log(counter.increment()); // 1
