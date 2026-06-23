@@ -24,3 +24,4 @@
 | 2026-06-20 | Shanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v10) | [10-01-focus-trap-controller-v10.ts](amaliyot/10-01-focus-trap-controller-v10.ts) | ✅ Bajarildi |
 | 2026-06-21 | Yakshanba | 📚 Nazariya | JavaScript V8 Dvigateli, Memory Heap va Call Stack | [11-v8-engine-memory-stack.md](konspektlar/11-v8-engine-memory-stack.md) | ✅ Bajarildi |
 | 2026-06-22 | Dushanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v11) | [11-01-focus-trap-controller-v11.ts](amaliyot/11-01-focus-trap-controller-v11.ts) | ✅ Bajarildi |
+| 2026-06-23 | Seshanba | 📚 Nazariya | Execution Context, Scope Chain va Closures (Tashqi Qamrov) | [12-execution-context-closures.md](konspektlar/12-execution-context-closures.md) | ✅ Bajarildi |
