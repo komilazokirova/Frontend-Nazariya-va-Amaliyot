@@ -18,3 +18,5 @@ console.log(counter.getCount());  // 1
 
 ## Amaliy qo'llanilishi:
 * Data Encapsulation (Private o'zgaruvchilar yaratish).
+* Currying va Partial Application.
+* Custom event handlerlarda holat saqlash.
