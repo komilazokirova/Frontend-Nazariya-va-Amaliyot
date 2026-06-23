@@ -13,3 +13,8 @@ function createCounter() {
 
 const counter = createCounter();
 console.log(counter.increment()); // 1
+console.log(counter.getCount());  // 1
+```
+
+## Amaliy qo'llanilishi:
+* Data Encapsulation (Private o'zgaruvchilar yaratish).
