@@ -8,3 +8,8 @@ Agar biror property obyektning o'zida topilmasa, dvigatel zanjir bo'ylab yuqorig
 
 ```javascript
 function Animal(name) {
+  this.name = name;
+}
+Animal.prototype.speak = function() {
+  return `${this.name} ovoz chiqarmoqda`;
+};
