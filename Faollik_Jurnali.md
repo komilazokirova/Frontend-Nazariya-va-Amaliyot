@@ -26,3 +26,4 @@
 | 2026-06-22 | Dushanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v11) | [11-01-focus-trap-controller-v11.ts](amaliyot/11-01-focus-trap-controller-v11.ts) | ✅ Bajarildi |
 | 2026-06-23 | Seshanba | 📚 Nazariya | Execution Context, Scope Chain va Closures (Tashqi Qamrov) | [12-execution-context-closures.md](konspektlar/12-execution-context-closures.md) | ✅ Bajarildi |
 | 2026-06-24 | Chorshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v12) | [12-01-focus-trap-controller-v12.ts](amaliyot/12-01-focus-trap-controller-v12.ts) | ✅ Bajarildi |
+| 2026-06-25 | Payshanba | 📚 Nazariya | Prototiplar, Prototypal Inheritance va ES6 Classes | [13-prototypes-and-classes.md](konspektlar/13-prototypes-and-classes.md) | ✅ Bajarildi |
