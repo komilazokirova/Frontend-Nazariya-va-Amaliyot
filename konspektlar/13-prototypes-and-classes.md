@@ -18,3 +18,6 @@ Animal.prototype.speak = function() {
 class Dog extends Animal {
   speak() {
     return `${this.name} vovullamoqda`;
+  }
+}
+```
