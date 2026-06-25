@@ -13,3 +13,8 @@ function Animal(name) {
 Animal.prototype.speak = function() {
   return `${this.name} ovoz chiqarmoqda`;
 };
+
+// ES6 Class — bu aslida prototiplar ustidagi qulay "syntactic sugar":
+class Dog extends Animal {
+  speak() {
+    return `${this.name} vovullamoqda`;
