@@ -1,4 +1,4 @@
-# `this` Kalit So'zi: Default, Implicit, Explicit va Arrow Binding
+# 🎯 `this` Kalit So'zining 4 Asosiy Qoidasi
 
-*Yuklangan sana: 2026-06-27*
+JavaScriptda `this` qiymati funksiya qayerda yozilganiga emas, **qanday chaqirilganiga** bog'liq.
 
