@@ -29,3 +29,4 @@
 | 2026-06-25 | Payshanba | 📚 Nazariya | Prototiplar, Prototypal Inheritance va ES6 Classes | [13-prototypes-and-classes.md](konspektlar/13-prototypes-and-classes.md) | ✅ Bajarildi |
 | 2026-06-26 | Juma | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v13) | [13-01-focus-trap-controller-v13.ts](amaliyot/13-01-focus-trap-controller-v13.ts) | ✅ Bajarildi |
 | 2026-06-27 | Shanba | 📚 Nazariya | `this` Kalit So'zi: Default, Implicit, Explicit va Arrow Binding | [14-this-binding-rules.md](konspektlar/14-this-binding-rules.md) | ✅ Bajarildi |
+| 2026-06-28 | Yakshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v14) | [14-01-focus-trap-controller-v14.ts](amaliyot/14-01-focus-trap-controller-v14.ts) | ✅ Bajarildi |
