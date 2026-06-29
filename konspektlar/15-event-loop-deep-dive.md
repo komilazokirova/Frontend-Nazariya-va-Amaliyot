@@ -1,4 +1,6 @@
-# JavaScript Event Loop: Microtasks, Macrotasks va Render Steps
+# 🔄 JavaScript Event Loop: Microtasks va Macrotasks
 
-*Yuklangan sana: 2026-06-29*
+JavaScript bir oqimli (single-threaded) til bo'lib, asinxronlikni Event Loop orqali boshqaradi.
 
+## Navbatlar (Queues):
+1. **Call Stack**: Hozir bajarilayotgan sinxron kod.
