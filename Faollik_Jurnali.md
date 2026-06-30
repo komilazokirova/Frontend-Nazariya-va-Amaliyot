@@ -31,3 +31,4 @@
 | 2026-06-27 | Shanba | 📚 Nazariya | `this` Kalit So'zi: Default, Implicit, Explicit va Arrow Binding | [14-this-binding-rules.md](konspektlar/14-this-binding-rules.md) | ✅ Bajarildi |
 | 2026-06-28 | Yakshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v14) | [14-01-focus-trap-controller-v14.ts](amaliyot/14-01-focus-trap-controller-v14.ts) | ✅ Bajarildi |
 | 2026-06-29 | Dushanba | 📚 Nazariya | JavaScript Event Loop: Microtasks, Macrotasks va Render Steps | [15-event-loop-deep-dive.md](konspektlar/15-event-loop-deep-dive.md) | ✅ Bajarildi |
+| 2026-06-30 | Seshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v15) | [15-01-focus-trap-controller-v15.ts](amaliyot/15-01-focus-trap-controller-v15.ts) | ✅ Bajarildi |
