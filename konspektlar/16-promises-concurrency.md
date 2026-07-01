@@ -1,4 +1,4 @@
-# Promises Chuqurlashtirilgan Tahlili: all, allSettled, race, any
+# 🤝 Promises Chuqurlashtirilgan Tahlili
 
-*Yuklangan sana: 2026-07-01*
+Bir vaqtning o'zida bir nechta asinxron amallarni boshqarish:
 
