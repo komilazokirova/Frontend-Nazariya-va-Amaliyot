@@ -33,3 +33,4 @@
 | 2026-06-29 | Dushanba | 📚 Nazariya | JavaScript Event Loop: Microtasks, Macrotasks va Render Steps | [15-event-loop-deep-dive.md](konspektlar/15-event-loop-deep-dive.md) | ✅ Bajarildi |
 | 2026-06-30 | Seshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v15) | [15-01-focus-trap-controller-v15.ts](amaliyot/15-01-focus-trap-controller-v15.ts) | ✅ Bajarildi |
 | 2026-07-01 | Chorshanba | 📚 Nazariya | Promises Chuqurlashtirilgan Tahlili: all, allSettled, race, any | [16-promises-concurrency.md](konspektlar/16-promises-concurrency.md) | ✅ Bajarildi |
+| 2026-07-02 | Payshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v16) | [16-01-focus-trap-controller-v16.ts](amaliyot/16-01-focus-trap-controller-v16.ts) | ✅ Bajarildi |
