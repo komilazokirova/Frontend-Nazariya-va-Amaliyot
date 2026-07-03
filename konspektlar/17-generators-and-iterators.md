@@ -6,3 +6,7 @@ Iterator protokoli — har qanday ma'lumot tuzilmasini `for..of` siklida aylanib
 Bajarilishini to'xtatib (`yield`) va keyinroq davom ettirish mumkin bo'lgan maxsus funksiyalar:
 
 ```javascript
+function* numberSequence() {
+  yield 1;
+  yield 2;
+  yield 3;
