@@ -6,3 +6,7 @@ Proxy — obyekt ustidagi asosiy operatsiyalarni (o'qish, yozish, o'chirish) ush
 const user = { name: "Komila", age: 24 };
 
 const observedUser = new Proxy(user, {
+  get(target, prop, receiver) {
+    console.log(`Property o'qildi: ${String(prop)}`);
+    return Reflect.get(target, prop, receiver);
+  },
