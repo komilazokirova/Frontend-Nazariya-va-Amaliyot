@@ -10,3 +10,7 @@ const observedUser = new Proxy(user, {
     console.log(`Property o'qildi: ${String(prop)}`);
     return Reflect.get(target, prop, receiver);
   },
+  set(target, prop, value, receiver) {
+    console.log(`Property yangilandi: ${String(prop)} = ${value}`);
+    return Reflect.set(target, prop, value, receiver);
+  }
