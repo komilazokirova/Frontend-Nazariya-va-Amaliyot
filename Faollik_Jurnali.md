@@ -37,3 +37,4 @@
 | 2026-07-03 | Juma | 📚 Nazariya | Async/Await, Generator Funksiyalar va Iterator Protokoli | [17-generators-and-iterators.md](konspektlar/17-generators-and-iterators.md) | ✅ Bajarildi |
 | 2026-07-04 | Shanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v17) | [17-01-focus-trap-controller-v17.ts](amaliyot/17-01-focus-trap-controller-v17.ts) | ✅ Bajarildi |
 | 2026-07-05 | Yakshanba | 📚 Nazariya | JavaScript Proxy va Reflect API: Metaprogramming | [18-proxy-and-reflect.md](konspektlar/18-proxy-and-reflect.md) | ✅ Bajarildi |
+| 2026-07-06 | Dushanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v18) | [18-01-focus-trap-controller-v18.ts](amaliyot/18-01-focus-trap-controller-v18.ts) | ✅ Bajarildi |
