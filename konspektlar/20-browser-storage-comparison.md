@@ -2,3 +2,5 @@
 
 | Xususiyat | Cookies | localStorage | sessionStorage | IndexedDB |
 | :--- | :--- | :--- | :--- | :--- |
+| Sig'imi | ~4 KB | ~5-10 MB | ~5-10 MB | > 250 MB (NoSQL) |
+| Muddati | Belgilangan sana | O'chirilguncha | Tab yopilguncha | Doimiy |
