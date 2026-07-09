@@ -1,4 +1,4 @@
-# Web Storage Tahlili: localStorage, sessionStorage, Cookies, IndexedDB
+# 💾 Brauzer Xotira Turlari Taqqoslanishi
 
-*Yuklangan sana: 2026-07-09*
-
+| Xususiyat | Cookies | localStorage | sessionStorage | IndexedDB |
+| :--- | :--- | :--- | :--- | :--- |
