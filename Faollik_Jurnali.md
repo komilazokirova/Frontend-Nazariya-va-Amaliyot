@@ -40,3 +40,4 @@
 | 2026-07-06 | Dushanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v18) | [18-01-focus-trap-controller-v18.ts](amaliyot/18-01-focus-trap-controller-v18.ts) | ✅ Bajarildi |
 | 2026-07-07 | Seshanba | 📚 Nazariya | Map, Set, WeakMap, WeakSet va Memory Management | [19-map-set-weakmap.md](konspektlar/19-map-set-weakmap.md) | ✅ Bajarildi |
 | 2026-07-08 | Chorshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v19) | [19-01-focus-trap-controller-v19.ts](amaliyot/19-01-focus-trap-controller-v19.ts) | ✅ Bajarildi |
+| 2026-07-09 | Payshanba | 📚 Nazariya | Web Storage Tahlili: localStorage, sessionStorage, Cookies, IndexedDB | [20-browser-storage-comparison.md](konspektlar/20-browser-storage-comparison.md) | ✅ Bajarildi |
