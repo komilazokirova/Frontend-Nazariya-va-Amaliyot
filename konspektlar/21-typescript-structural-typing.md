@@ -4,3 +4,6 @@ TypeScript **Structural Typing (Duck Typing)** tizimidan foydalanadi: "Agar u o'
 
 ```typescript
 type User = { id: string; name: string };
+type Product = { id: string; name: string };
+
+const p: Product = { id: "1", name: "Laptop" };
