@@ -1,4 +1,6 @@
-# TypeScript Structural Typing vs Nominal Typing
+# 🔷 TypeScript: Structural vs Nominal Typing
 
-*Yuklangan sana: 2026-07-11*
+TypeScript **Structural Typing (Duck Typing)** tizimidan foydalanadi: "Agar u o'rdakdek yursa va o'rdakdek qag'illasa, demak u o'rdakdir".
 
+```typescript
+type User = { id: string; name: string };
