@@ -10,3 +10,5 @@ const p: Product = { id: "1", name: "Laptop" };
 const u: User = p; // ✅ Hech qanday xatolik yo'q, chunki tuzilishi bir xil!
 ```
 
+## Branded / Nominal Types:
+Agar ID larni adashtirmaslik kerak bo'lsa (masalan `UserId` va `OrderId`), Brand pattern ishlatiladi.
