@@ -7,3 +7,6 @@ type User = { id: string; name: string };
 type Product = { id: string; name: string };
 
 const p: Product = { id: "1", name: "Laptop" };
+const u: User = p; // ✅ Hech qanday xatolik yo'q, chunki tuzilishi bir xil!
+```
+
