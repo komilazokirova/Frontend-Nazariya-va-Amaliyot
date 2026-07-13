@@ -1,4 +1,8 @@
-# TypeScript Generics: Constraints, Defaults va Patternlar
+# 🧬 TypeScript Generics: Moslashuvchan va Xavfsiz Kod
 
-*Yuklangan sana: 2026-07-13*
+Generics — funksiya yoki klasslarni bir nechta turli xil ma'lumot turlari bilan xavfsiz ishlash imkonini beruvchi shablon tizimi.
 
+```typescript
+function getFirstElement<T>(array: T[]): T | undefined {
+  return array[0];
+}
