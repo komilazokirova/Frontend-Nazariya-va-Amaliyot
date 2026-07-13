@@ -6,3 +6,7 @@ Generics — funksiya yoki klasslarni bir nechta turli xil ma'lumot turlari bila
 function getFirstElement<T>(array: T[]): T | undefined {
   return array[0];
 }
+
+// Constraints (Cheklovlar):
+interface HasId {
+  id: string | number;
