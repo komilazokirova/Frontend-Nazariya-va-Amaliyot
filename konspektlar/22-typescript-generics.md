@@ -14,3 +14,4 @@ interface HasId {
 function printId<T extends HasId>(item: T): void {
   console.log(item.id);
 }
+```
