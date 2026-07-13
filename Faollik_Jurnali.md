@@ -44,3 +44,4 @@
 | 2026-07-10 | Juma | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v20) | [20-01-focus-trap-controller-v20.ts](amaliyot/20-01-focus-trap-controller-v20.ts) | ✅ Bajarildi |
 | 2026-07-11 | Shanba | 📚 Nazariya | TypeScript Structural Typing vs Nominal Typing | [21-typescript-structural-typing.md](konspektlar/21-typescript-structural-typing.md) | ✅ Bajarildi |
 | 2026-07-12 | Yakshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v21) | [21-01-focus-trap-controller-v21.ts](amaliyot/21-01-focus-trap-controller-v21.ts) | ✅ Bajarildi |
+| 2026-07-13 | Dushanba | 📚 Nazariya | TypeScript Generics: Constraints, Defaults va Patternlar | [22-typescript-generics.md](konspektlar/22-typescript-generics.md) | ✅ Bajarildi |
