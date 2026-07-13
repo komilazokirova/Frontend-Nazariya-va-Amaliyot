@@ -10,3 +10,7 @@ function getFirstElement<T>(array: T[]): T | undefined {
 // Constraints (Cheklovlar):
 interface HasId {
   id: string | number;
+}
+function printId<T extends HasId>(item: T): void {
+  console.log(item.id);
+}
