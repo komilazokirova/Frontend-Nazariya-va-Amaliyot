@@ -1,4 +1,4 @@
-# TypeScript Utility Types: Partial, Required, Pick, Omit, Record
+# 🛠️ TypeScript Utility Types
 
-*Yuklangan sana: 2026-07-15*
+TypeScript taqdim etadigan eng muhim transformatsiya turlari:
 
