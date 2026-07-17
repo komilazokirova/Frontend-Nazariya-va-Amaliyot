@@ -6,3 +6,6 @@ Turlarni shartli ifodalar orqali hisoblash (`T extends U ? X : Y`).
 ```typescript
 type ReturnTypeOf<T> = T extends (...args: any[]) => infer R ? R : never;
 
+type MyFunc = (a: number) => string;
+type Result = ReturnTypeOf<MyFunc>; // string
+```
