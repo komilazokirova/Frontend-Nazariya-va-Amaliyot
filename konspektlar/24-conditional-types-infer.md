@@ -1,4 +1,4 @@
-# Conditional Types va `infer` Kalit So'zi
+# 🧩 Conditional Types va `infer` Mexanizmi
 
-*Yuklangan sana: 2026-07-17*
+Turlarni shartli ifodalar orqali hisoblash (`T extends U ? X : Y`).
 
