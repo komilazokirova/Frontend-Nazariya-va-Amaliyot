@@ -48,3 +48,4 @@
 | 2026-07-14 | Seshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v22) | [22-01-focus-trap-controller-v22.ts](amaliyot/22-01-focus-trap-controller-v22.ts) | ✅ Bajarildi |
 | 2026-07-15 | Chorshanba | 📚 Nazariya | TypeScript Utility Types: Partial, Required, Pick, Omit, Record | [23-typescript-utility-types.md](konspektlar/23-typescript-utility-types.md) | ✅ Bajarildi |
 | 2026-07-16 | Payshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v23) | [23-01-focus-trap-controller-v23.ts](amaliyot/23-01-focus-trap-controller-v23.ts) | ✅ Bajarildi |
+| 2026-07-17 | Juma | 📚 Nazariya | Conditional Types va `infer` Kalit So'zi | [24-conditional-types-infer.md](konspektlar/24-conditional-types-infer.md) | ✅ Bajarildi |
