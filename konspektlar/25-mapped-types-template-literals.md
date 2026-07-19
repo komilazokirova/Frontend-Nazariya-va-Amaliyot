@@ -6,3 +6,7 @@ Mavjud turlarning barcha kalitlari bo'ylab aylanib chiqish va yangi turlar yasas
 type Getters<T> = {
   [K in keyof T as `get${Capitalize<string & K>}`]: () => T[K];
 };
+
+interface Person {
+  name: string;
+  age: number;
