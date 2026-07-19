@@ -50,3 +50,4 @@
 | 2026-07-16 | Payshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v23) | [23-01-focus-trap-controller-v23.ts](amaliyot/23-01-focus-trap-controller-v23.ts) | ✅ Bajarildi |
 | 2026-07-17 | Juma | 📚 Nazariya | Conditional Types va `infer` Kalit So'zi | [24-conditional-types-infer.md](konspektlar/24-conditional-types-infer.md) | ✅ Bajarildi |
 | 2026-07-18 | Shanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v24) | [24-01-focus-trap-controller-v24.ts](amaliyot/24-01-focus-trap-controller-v24.ts) | ✅ Bajarildi |
+| 2026-07-19 | Yakshanba | 📚 Nazariya | Mapped Types, Key Remapping (`as`) va Template Literals | [25-mapped-types-template-literals.md](konspektlar/25-mapped-types-template-literals.md) | ✅ Bajarildi |
