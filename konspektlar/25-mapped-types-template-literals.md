@@ -14,3 +14,4 @@ interface Person {
 
 type PersonGetters = Getters<Person>;
 // { getName: () => string; getAge: () => number; }
+```
