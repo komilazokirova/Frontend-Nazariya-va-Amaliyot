@@ -10,3 +10,7 @@ type Getters<T> = {
 interface Person {
   name: string;
   age: number;
+}
+
+type PersonGetters = Getters<Person>;
+// { getName: () => string; getAge: () => number; }
