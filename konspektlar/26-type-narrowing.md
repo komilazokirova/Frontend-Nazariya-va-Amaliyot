@@ -7,3 +7,6 @@ TypeScriptda noaniq turni (`unknown` yoki Union) aniq turga toraytirish usullari
 3. `"error" in response`
 4. **User-Defined Type Guard (`is`)**:
 ```typescript
+function isString(val: unknown): val is string {
+  return typeof val === "string";
+}
