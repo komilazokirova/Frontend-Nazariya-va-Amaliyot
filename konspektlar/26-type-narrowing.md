@@ -1,4 +1,6 @@
-# Type Narrowing: Type Guards, `instanceof`, `typeof` va `in`
+# 🔍 Type Narrowing va Custom Type Guards
 
-*Yuklangan sana: 2026-07-21*
+TypeScriptda noaniq turni (`unknown` yoki Union) aniq turga toraytirish usullari:
 
+1. `typeof x === "string"`
+2. `x instanceof Date`
