@@ -18,3 +18,5 @@ function handleState(state: NetworkState) {
       return _exhaustiveCheck;
     }
   }
+}
+```
