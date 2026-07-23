@@ -13,3 +13,8 @@ function handleState(state: NetworkState) {
     case "loading": return "Yuklanmoqda...";
     case "success": return state.response.title;
     case "failed": return `Xato kodi: ${state.code}`;
+    default: {
+      const _exhaustiveCheck: never = state;
+      return _exhaustiveCheck;
+    }
+  }
