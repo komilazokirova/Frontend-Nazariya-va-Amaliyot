@@ -55,3 +55,4 @@
 | 2026-07-21 | Seshanba | 📚 Nazariya | Type Narrowing: Type Guards, `instanceof`, `typeof` va `in` | [26-type-narrowing.md](konspektlar/26-type-narrowing.md) | ✅ Bajarildi |
 | 2026-07-22 | Chorshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v26) | [26-01-focus-trap-controller-v26.ts](amaliyot/26-01-focus-trap-controller-v26.ts) | ✅ Bajarildi |
 | 2026-07-23 | Payshanba | 📚 Nazariya | Discriminated Unions va Exhaustive Switch Checking | [27-discriminated-unions.md](konspektlar/27-discriminated-unions.md) | ✅ Bajarildi |
+| 2026-07-24 | Juma | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v27) | [27-01-focus-trap-controller-v27.ts](amaliyot/27-01-focus-trap-controller-v27.ts) | ✅ Bajarildi |
