@@ -1,4 +1,6 @@
-# TypeScript Decorators (TC39 Stage 3) Standarti
+# 🎀 TypeScript Decorators (TC39 Stage 3)
 
-*Yuklangan sana: 2026-07-25*
+Dekoratorlar — klasslar, metodlar va maydonlarning harakatini o'zgartirish va meta-ma'lumot qo'shish imkonini beruvchi funksiyalardir.
 
+```typescript
+function logged(target: any, context: ClassMethodDecoratorContext) {
