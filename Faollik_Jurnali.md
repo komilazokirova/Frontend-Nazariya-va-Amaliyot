@@ -57,3 +57,4 @@
 | 2026-07-23 | Payshanba | 📚 Nazariya | Discriminated Unions va Exhaustive Switch Checking | [27-discriminated-unions.md](konspektlar/27-discriminated-unions.md) | ✅ Bajarildi |
 | 2026-07-24 | Juma | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v27) | [27-01-focus-trap-controller-v27.ts](amaliyot/27-01-focus-trap-controller-v27.ts) | ✅ Bajarildi |
 | 2026-07-25 | Shanba | 📚 Nazariya | TypeScript Decorators (TC39 Stage 3) Standarti | [28-typescript-decorators.md](konspektlar/28-typescript-decorators.md) | ✅ Bajarildi |
+| 2026-07-26 | Yakshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v28) | [28-01-focus-trap-controller-v28.ts](amaliyot/28-01-focus-trap-controller-v28.ts) | ✅ Bajarildi |
