@@ -59,3 +59,4 @@
 | 2026-07-25 | Shanba | 📚 Nazariya | TypeScript Decorators (TC39 Stage 3) Standarti | [28-typescript-decorators.md](konspektlar/28-typescript-decorators.md) | ✅ Bajarildi |
 | 2026-07-26 | Yakshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v28) | [28-01-focus-trap-controller-v28.ts](amaliyot/28-01-focus-trap-controller-v28.ts) | ✅ Bajarildi |
 | 2026-07-27 | Dushanba | 📚 Nazariya | TypeScript Compiler (`tsconfig.json`) Chuqur Sozlamalari | [29-tsconfig-deep-dive.md](konspektlar/29-tsconfig-deep-dive.md) | ✅ Bajarildi |
+| 2026-07-28 | Seshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v29) | [29-01-focus-trap-controller-v29.ts](amaliyot/29-01-focus-trap-controller-v29.ts) | ✅ Bajarildi |
