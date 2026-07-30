@@ -61,3 +61,4 @@
 | 2026-07-27 | Dushanba | 📚 Nazariya | TypeScript Compiler (`tsconfig.json`) Chuqur Sozlamalari | [29-tsconfig-deep-dive.md](konspektlar/29-tsconfig-deep-dive.md) | ✅ Bajarildi |
 | 2026-07-28 | Seshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v29) | [29-01-focus-trap-controller-v29.ts](amaliyot/29-01-focus-trap-controller-v29.ts) | ✅ Bajarildi |
 | 2026-07-29 | Chorshanba | 📚 Nazariya | TypeScriptda SOLID Tamoyillari | [30-solid-principles-typescript.md](konspektlar/30-solid-principles-typescript.md) | ✅ Bajarildi |
+| 2026-07-30 | Payshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v30) | [30-01-focus-trap-controller-v30.ts](amaliyot/30-01-focus-trap-controller-v30.ts) | ✅ Bajarildi |
