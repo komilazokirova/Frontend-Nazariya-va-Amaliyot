@@ -62,3 +62,4 @@
 | 2026-07-28 | Seshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v29) | [29-01-focus-trap-controller-v29.ts](amaliyot/29-01-focus-trap-controller-v29.ts) | ✅ Bajarildi |
 | 2026-07-29 | Chorshanba | 📚 Nazariya | TypeScriptda SOLID Tamoyillari | [30-solid-principles-typescript.md](konspektlar/30-solid-principles-typescript.md) | ✅ Bajarildi |
 | 2026-07-30 | Payshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v30) | [30-01-focus-trap-controller-v30.ts](amaliyot/30-01-focus-trap-controller-v30.ts) | ✅ Bajarildi |
+| 2026-07-31 | Juma | 📚 Nazariya | React 19 Arxitekturasi: React Compiler, Actions va yangi Hooklar | [31-react-19-architecture.md](konspektlar/31-react-19-architecture.md) | ✅ Bajarildi |
