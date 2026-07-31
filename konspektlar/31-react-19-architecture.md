@@ -1,4 +1,4 @@
-# React 19 Arxitekturasi: React Compiler, Actions va yangi Hooklar
+# ⚛️ React 19 Arxitekturasi va Yangi Xususiyatlari
 
-*Yuklangan sana: 2026-07-31*
+React 19 da manual memoizatsiya (`useMemo`, `useCallback`) React Compiler tomonidan avtomatlashtiriladi.
 
