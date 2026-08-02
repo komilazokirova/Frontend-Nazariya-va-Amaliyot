@@ -64,3 +64,4 @@
 | 2026-07-30 | Payshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v30) | [30-01-focus-trap-controller-v30.ts](amaliyot/30-01-focus-trap-controller-v30.ts) | ✅ Bajarildi |
 | 2026-07-31 | Juma | 📚 Nazariya | React 19 Arxitekturasi: React Compiler, Actions va yangi Hooklar | [31-react-19-architecture.md](konspektlar/31-react-19-architecture.md) | ✅ Bajarildi |
 | 2026-08-01 | Shanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v31) | [31-01-focus-trap-controller-v31.ts](amaliyot/31-01-focus-trap-controller-v31.ts) | ✅ Bajarildi |
+| 2026-08-02 | Yakshanba | 📚 Nazariya | Virtual DOM, Fiber Tree va Reconciliation Algoritmi | [32-react-fiber-reconciliation.md](konspektlar/32-react-fiber-reconciliation.md) | ✅ Bajarildi |
