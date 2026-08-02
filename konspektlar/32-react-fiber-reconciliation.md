@@ -1,4 +1,4 @@
-# Virtual DOM, Fiber Tree va Reconciliation Algoritmi
+# 🌳 React Fiber Tree va Reconciliation Algoritmi
 
-*Yuklangan sana: 2026-08-02*
+React qanday qilib butun sahifani qayta chizmasdan minimal DOM operatsiyalarini bajaradi?
 
