@@ -1,4 +1,4 @@
-# `useMemo` va `useCallback`: Qachon Ishlatish Kerak va Qachon Ortiqcha?
+# ⚡ React Performance: `useMemo` va `useCallback`
 
-*Yuklangan sana: 2026-08-04*
-
+* `useMemo`: Qimmatli hisob-kitob natijasini keshlaydi.
+* `useCallback`: Funksiyaning referensini keshlaydi (farzand komponentlarga prop uzatilganda re-renderni kamaytiradi).
