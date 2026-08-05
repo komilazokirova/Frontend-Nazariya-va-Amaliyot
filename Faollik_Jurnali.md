@@ -67,3 +67,4 @@
 | 2026-08-02 | Yakshanba | 📚 Nazariya | Virtual DOM, Fiber Tree va Reconciliation Algoritmi | [32-react-fiber-reconciliation.md](konspektlar/32-react-fiber-reconciliation.md) | ✅ Bajarildi |
 | 2026-08-03 | Dushanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v32) | [32-01-focus-trap-controller-v32.ts](amaliyot/32-01-focus-trap-controller-v32.ts) | ✅ Bajarildi |
 | 2026-08-04 | Seshanba | 📚 Nazariya | `useMemo` va `useCallback`: Qachon Ishlatish Kerak va Qachon Ortiqcha? | [33-react-performance-memo.md](konspektlar/33-react-performance-memo.md) | ✅ Bajarildi |
+| 2026-08-05 | Chorshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v33) | [33-01-focus-trap-controller-v33.ts](amaliyot/33-01-focus-trap-controller-v33.ts) | ✅ Bajarildi |
