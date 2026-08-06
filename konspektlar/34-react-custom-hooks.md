@@ -1,4 +1,4 @@
-# React Custom Hooks Arxitekturasi va Toza Kod Qoidalari
+# 🎣 React Custom Hooks Arxitekturasi
 
-*Yuklangan sana: 2026-08-06*
+Custom Hook — komponentlar o'rtasida UI mantig'ini (stateful logic) qayta ishlatishning eng yaxshi usuli.
 
