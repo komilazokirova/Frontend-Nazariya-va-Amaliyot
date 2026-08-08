@@ -1,4 +1,4 @@
-# React Context API: Re-render Muammolari va Yechimlari
+# 🌐 React Context API va Re-render Muammosi
 
-*Yuklangan sana: 2026-08-08*
+Context global holatni chuqur komponentlarga uzatish (Prop Drilling oldini olish) uchun juda qulay, lekin katta kamchiligi bor:
 
