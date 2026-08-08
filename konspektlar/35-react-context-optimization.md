@@ -6,3 +6,5 @@ Context global holatni chuqur komponentlarga uzatish (Prop Drilling oldini olish
 
 ## Yechimlar:
 1. Contextni kichik, mustaqil qismlarga bo'lish (`ThemeContext`, `AuthContext`, `CartContext`).
+2. State va Dispatch funksiyalarini alohida contextlarga ajratish.
+3. Katta ilovalarda **Zustand** kabi selektorli kutubxonalarga o'tish.
