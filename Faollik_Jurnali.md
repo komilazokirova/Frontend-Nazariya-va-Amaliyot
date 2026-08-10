@@ -72,3 +72,4 @@
 | 2026-08-07 | Juma | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v34) | [34-01-focus-trap-controller-v34.ts](amaliyot/34-01-focus-trap-controller-v34.ts) | ✅ Bajarildi |
 | 2026-08-08 | Shanba | 📚 Nazariya | React Context API: Re-render Muammolari va Yechimlari | [35-react-context-optimization.md](konspektlar/35-react-context-optimization.md) | ✅ Bajarildi |
 | 2026-08-09 | Yakshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v35) | [35-01-focus-trap-controller-v35.ts](amaliyot/35-01-focus-trap-controller-v35.ts) | ✅ Bajarildi |
+| 2026-08-10 | Dushanba | 📚 Nazariya | React Portals va Modallar Arxitekturasi | [36-react-portals.md](konspektlar/36-react-portals.md) | ✅ Bajarildi |
