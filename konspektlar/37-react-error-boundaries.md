@@ -6,3 +6,7 @@ Error Boundary — o'zining farzand komponentlaridagi JavaScript xatolarini ushl
 class ErrorBoundary extends React.Component {
   state = { hasError: false };
   static getDerivedStateFromError(error) {
+    return { hasError: true };
+  }
+  componentDidCatch(error, errorInfo) {
+    // Sentry yoki monitoring tizimiga yuborish
