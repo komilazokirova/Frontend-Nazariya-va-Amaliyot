@@ -10,3 +10,7 @@ class ErrorBoundary extends React.Component {
   }
   componentDidCatch(error, errorInfo) {
     // Sentry yoki monitoring tizimiga yuborish
+  }
+  render() {
+    if (this.state.hasError) return <FallbackUI />;
+    return this.props.children;
