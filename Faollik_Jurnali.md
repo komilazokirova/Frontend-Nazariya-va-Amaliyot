@@ -75,3 +75,4 @@
 | 2026-08-10 | Dushanba | 📚 Nazariya | React Portals va Modallar Arxitekturasi | [36-react-portals.md](konspektlar/36-react-portals.md) | ✅ Bajarildi |
 | 2026-08-11 | Seshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v36) | [36-01-focus-trap-controller-v36.ts](amaliyot/36-01-focus-trap-controller-v36.ts) | ✅ Bajarildi |
 | 2026-08-12 | Chorshanba | 📚 Nazariya | Error Boundaries: Xatolarni Tutish va Foydalanuvchini Saqlash | [37-react-error-boundaries.md](konspektlar/37-react-error-boundaries.md) | ✅ Bajarildi |
+| 2026-08-13 | Payshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v37) | [37-01-focus-trap-controller-v37.ts](amaliyot/37-01-focus-trap-controller-v37.ts) | ✅ Bajarildi |
