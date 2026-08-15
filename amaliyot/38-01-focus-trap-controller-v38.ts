@@ -22,3 +22,9 @@ export function createFocusTrap(element: HTMLElement) {
         lastElement.focus();
         e.preventDefault();
       }
+    } else {
+      if (document.activeElement === lastElement) {
+        firstElement.focus();
+        e.preventDefault();
+      }
+    }
