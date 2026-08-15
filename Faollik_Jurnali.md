@@ -77,3 +77,4 @@
 | 2026-08-12 | Chorshanba | 📚 Nazariya | Error Boundaries: Xatolarni Tutish va Foydalanuvchini Saqlash | [37-react-error-boundaries.md](konspektlar/37-react-error-boundaries.md) | ✅ Bajarildi |
 | 2026-08-13 | Payshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v37) | [37-01-focus-trap-controller-v37.ts](amaliyot/37-01-focus-trap-controller-v37.ts) | ✅ Bajarildi |
 | 2026-08-14 | Juma | 📚 Nazariya | React Suspense va Concurrent Rendering | [38-react-suspense-concurrent.md](konspektlar/38-react-suspense-concurrent.md) | ✅ Bajarildi |
+| 2026-08-15 | Shanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v38) | [38-01-focus-trap-controller-v38.ts](amaliyot/38-01-focus-trap-controller-v38.ts) | ✅ Bajarildi |
