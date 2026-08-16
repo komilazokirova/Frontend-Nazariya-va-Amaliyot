@@ -1,4 +1,6 @@
-# Compound Components va Headless UI Patternlari
+# 🧩 Compound Components Pattern
 
-*Yuklangan sana: 2026-08-16*
+Komponentlarni xuddi `<select>` va `<option>` kabi bir-biri bilan tabiiy ishlaydigan qilish:
 
+```tsx
+<Tabs defaultValue="tab1">
