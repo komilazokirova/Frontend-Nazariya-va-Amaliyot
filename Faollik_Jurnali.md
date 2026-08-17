@@ -79,3 +79,4 @@
 | 2026-08-14 | Juma | 📚 Nazariya | React Suspense va Concurrent Rendering | [38-react-suspense-concurrent.md](konspektlar/38-react-suspense-concurrent.md) | ✅ Bajarildi |
 | 2026-08-15 | Shanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v38) | [38-01-focus-trap-controller-v38.ts](amaliyot/38-01-focus-trap-controller-v38.ts) | ✅ Bajarildi |
 | 2026-08-16 | Yakshanba | 📚 Nazariya | Compound Components va Headless UI Patternlari | [39-compound-components-pattern.md](konspektlar/39-compound-components-pattern.md) | ✅ Bajarildi |
+| 2026-08-17 | Dushanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v39) | [39-01-focus-trap-controller-v39.ts](amaliyot/39-01-focus-trap-controller-v39.ts) | ✅ Bajarildi |
