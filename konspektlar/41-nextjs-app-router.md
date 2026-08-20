@@ -1,4 +1,6 @@
-# Next.js App Router Arxitekturasi: Server vs Client Components
+# ⚡ Next.js App Router: Server va Client Components
 
-*Yuklangan sana: 2026-08-20*
+Next.js 13+ App Router standarti:
 
+## 1. Server Components (RSC - Default):
+* Serverda ishlaydi, brauzerga JavaScript yuklamaydi (0 KB bundle).
