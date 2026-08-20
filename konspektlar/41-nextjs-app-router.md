@@ -7,3 +7,6 @@ Next.js 13+ App Router standarti:
 * To'g'ridan-to'g'ri ma'lumotlar bazasi yoki fayl tizimi bilan ishlay oladi.
 * Hooklar (`useState`, `useEffect`) va hodisalar (`onClick`) ishlatib bo'lmaydi.
 
+## 2. Client Components (`'use client'`):
+* Interaktiv elementlar (tugmalar, formalar, qidiruv maydoni).
+* Brauzer API va hooklaridan foydalanish zarur bo'lganda qo'llaniladi.
