@@ -84,3 +84,4 @@
 | 2026-08-19 | Chorshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v40) | [40-01-focus-trap-controller-v40.ts](amaliyot/40-01-focus-trap-controller-v40.ts) | ✅ Bajarildi |
 | 2026-08-20 | Payshanba | 📚 Nazariya | Next.js App Router Arxitekturasi: Server vs Client Components | [41-nextjs-app-router.md](konspektlar/41-nextjs-app-router.md) | ✅ Bajarildi |
 | 2026-08-21 | Juma | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v41) | [41-01-focus-trap-controller-v41.ts](amaliyot/41-01-focus-trap-controller-v41.ts) | ✅ Bajarildi |
+| 2026-08-22 | Shanba | 📚 Nazariya | Next.js Dynamic Routing, Route Groups va Parallel Routes | [42-nextjs-dynamic-routing.md](konspektlar/42-nextjs-dynamic-routing.md) | ✅ Bajarildi |
