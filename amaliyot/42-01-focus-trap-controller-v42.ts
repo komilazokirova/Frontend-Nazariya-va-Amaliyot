@@ -34,3 +34,6 @@ export function createFocusTrap(element: HTMLElement) {
   firstElement?.focus();
 
   return {
+    release: () => element.removeEventListener('keydown', handleKeyDown)
+  };
+}
