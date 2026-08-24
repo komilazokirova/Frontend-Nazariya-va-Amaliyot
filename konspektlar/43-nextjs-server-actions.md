@@ -10,3 +10,6 @@ export async function createTodo(formData: FormData) {
   const title = formData.get('title');
   // DB ga saqlash
   revalidatePath('/todos');
+}
+```
+API endpoint (Route Handler) yaratish shart emas!
