@@ -1,4 +1,6 @@
-# Next.js Server Actions: Xavfsiz Form Mutations
+# ⚡ Next.js Server Actions: Xavfsiz Server Mutatsiyalari
 
-*Yuklangan sana: 2026-08-24*
+Server Actions — bu serverda bajariladigan asinxron funksiyalar bo'lib, ularni to'g'ridan-to'g'ri formaning `action` atributiga berish mumkin:
 
+```tsx
+// actions.ts
