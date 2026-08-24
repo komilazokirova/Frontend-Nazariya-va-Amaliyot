@@ -4,3 +4,6 @@ Server Actions — bu serverda bajariladigan asinxron funksiyalar bo'lib, ularni
 
 ```tsx
 // actions.ts
+'use server';
+
+export async function createTodo(formData: FormData) {
