@@ -87,3 +87,4 @@
 | 2026-08-22 | Shanba | 📚 Nazariya | Next.js Dynamic Routing, Route Groups va Parallel Routes | [42-nextjs-dynamic-routing.md](konspektlar/42-nextjs-dynamic-routing.md) | ✅ Bajarildi |
 | 2026-08-23 | Yakshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v42) | [42-01-focus-trap-controller-v42.ts](amaliyot/42-01-focus-trap-controller-v42.ts) | ✅ Bajarildi |
 | 2026-08-24 | Dushanba | 📚 Nazariya | Next.js Server Actions: Xavfsiz Form Mutations | [43-nextjs-server-actions.md](konspektlar/43-nextjs-server-actions.md) | ✅ Bajarildi |
+| 2026-08-25 | Seshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v43) | [43-01-focus-trap-controller-v43.ts](amaliyot/43-01-focus-trap-controller-v43.ts) | ✅ Bajarildi |
