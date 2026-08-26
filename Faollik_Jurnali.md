@@ -88,3 +88,4 @@
 | 2026-08-23 | Yakshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v42) | [42-01-focus-trap-controller-v42.ts](amaliyot/42-01-focus-trap-controller-v42.ts) | ✅ Bajarildi |
 | 2026-08-24 | Dushanba | 📚 Nazariya | Next.js Server Actions: Xavfsiz Form Mutations | [43-nextjs-server-actions.md](konspektlar/43-nextjs-server-actions.md) | ✅ Bajarildi |
 | 2026-08-25 | Seshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v43) | [43-01-focus-trap-controller-v43.ts](amaliyot/43-01-focus-trap-controller-v43.ts) | ✅ Bajarildi |
+| 2026-08-26 | Chorshanba | 📚 Nazariya | Next.js Caching Arxitekturasi: 4 Bosqichli Kesh | [44-nextjs-caching-deep-dive.md](konspektlar/44-nextjs-caching-deep-dive.md) | ✅ Bajarildi |
