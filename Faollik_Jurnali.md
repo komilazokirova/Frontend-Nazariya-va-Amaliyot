@@ -91,3 +91,4 @@
 | 2026-08-26 | Chorshanba | 📚 Nazariya | Next.js Caching Arxitekturasi: 4 Bosqichli Kesh | [44-nextjs-caching-deep-dive.md](konspektlar/44-nextjs-caching-deep-dive.md) | ✅ Bajarildi |
 | 2026-08-27 | Payshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v44) | [44-01-focus-trap-controller-v44.ts](amaliyot/44-01-focus-trap-controller-v44.ts) | ✅ Bajarildi |
 | 2026-08-28 | Juma | 📚 Nazariya | Next.js Middleware: Himoyalangan Marshrutlar va RBAC | [45-nextjs-middleware-auth.md](konspektlar/45-nextjs-middleware-auth.md) | ✅ Bajarildi |
+| 2026-08-29 | Shanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v45) | [45-01-focus-trap-controller-v45.ts](amaliyot/45-01-focus-trap-controller-v45.ts) | ✅ Bajarildi |
