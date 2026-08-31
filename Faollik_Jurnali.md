@@ -93,3 +93,4 @@
 | 2026-08-28 | Juma | 📚 Nazariya | Next.js Middleware: Himoyalangan Marshrutlar va RBAC | [45-nextjs-middleware-auth.md](konspektlar/45-nextjs-middleware-auth.md) | ✅ Bajarildi |
 | 2026-08-29 | Shanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v45) | [45-01-focus-trap-controller-v45.ts](amaliyot/45-01-focus-trap-controller-v45.ts) | ✅ Bajarildi |
 | 2026-08-30 | Yakshanba | 📚 Nazariya | Next.js Optimizatsiyasi: Image, Font va Script Komponentlari | [46-nextjs-optimizations.md](konspektlar/46-nextjs-optimizations.md) | ✅ Bajarildi |
+| 2026-08-31 | Dushanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v46) | [46-01-focus-trap-controller-v46.ts](amaliyot/46-01-focus-trap-controller-v46.ts) | ✅ Bajarildi |
