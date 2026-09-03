@@ -96,3 +96,4 @@
 | 2026-08-31 | Dushanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v46) | [46-01-focus-trap-controller-v46.ts](amaliyot/46-01-focus-trap-controller-v46.ts) | ✅ Bajarildi |
 | 2026-09-01 | Seshanba | 📚 Nazariya | Frontend Kesh Strategiyalari: Cache-Control, ETag va Stale-While-Revalidate | [47-cache-control-etag.md](konspektlar/47-cache-control-etag.md) | ✅ Bajarildi |
 | 2026-09-02 | Chorshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v47) | [47-01-focus-trap-controller-v47.ts](amaliyot/47-01-focus-trap-controller-v47.ts) | ✅ Bajarildi |
+| 2026-09-03 | Payshanba | 📚 Nazariya | Veb Xavfsizlik: XSS, CSRF, Clickjacking va CSP | [48-web-security-xss-csrf.md](konspektlar/48-web-security-xss-csrf.md) | ✅ Bajarildi |
