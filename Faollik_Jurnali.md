@@ -97,3 +97,4 @@
 | 2026-09-01 | Seshanba | 📚 Nazariya | Frontend Kesh Strategiyalari: Cache-Control, ETag va Stale-While-Revalidate | [47-cache-control-etag.md](konspektlar/47-cache-control-etag.md) | ✅ Bajarildi |
 | 2026-09-02 | Chorshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v47) | [47-01-focus-trap-controller-v47.ts](amaliyot/47-01-focus-trap-controller-v47.ts) | ✅ Bajarildi |
 | 2026-09-03 | Payshanba | 📚 Nazariya | Veb Xavfsizlik: XSS, CSRF, Clickjacking va CSP | [48-web-security-xss-csrf.md](konspektlar/48-web-security-xss-csrf.md) | ✅ Bajarildi |
+| 2026-09-04 | Juma | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v48) | [48-01-focus-trap-controller-v48.ts](amaliyot/48-01-focus-trap-controller-v48.ts) | ✅ Bajarildi |
