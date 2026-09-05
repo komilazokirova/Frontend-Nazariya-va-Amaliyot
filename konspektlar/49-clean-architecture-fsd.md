@@ -1,4 +1,6 @@
-# Frontend Loyihalarida Clean Architecture va Feature-Sliced Design (FSD)
+# 🏗️ Feature-Sliced Design (FSD) Arxitekturasi
 
-*Yuklangan sana: 2026-09-05*
+Katta Frontend loyihalarini tartibga solish standarti:
 
+```
+src/
