@@ -10,3 +10,4 @@ src/
 ├── features/     # Foydalanuvchi amallari (AuthByEmail, AddToCart)
 ├── entities/     # Biznes mohiyatlar (User, Product, Order)
 └── shared/       # Qayta ishlatiluvchi UI kit, API klient, yordamchilar
+```
