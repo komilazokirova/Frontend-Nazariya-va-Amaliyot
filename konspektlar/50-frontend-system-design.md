@@ -4,3 +4,6 @@ Murakkab tizimlarni (masalan, Yangiliklar lentasi, Messenger yoki Google Docs) l
 
 1. **Talablarni aniqlashtirish (Requirements)**: Funksional va nofunksional talablar, offline qo'llab-quvvatlash.
 2. **Yuqori darajadagi arxitektura (High-Level Architecture)**: Komponentlar ierarxiyasi va ma'lumotlar oqimi.
+3. **Data Model**: Normalizatsiya qilingan state tuzilmasi.
+4. **Tarmoq va Sinxronizatsiya**: REST vs GraphQL vs WebSockets.
+5. **Optimizatsiya va Edge Cases**: Virtual list, kesh, xatoliklar bilan ishlash.
