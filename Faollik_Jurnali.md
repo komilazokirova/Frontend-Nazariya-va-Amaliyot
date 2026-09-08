@@ -101,3 +101,4 @@
 | 2026-09-05 | Shanba | 📚 Nazariya | Frontend Loyihalarida Clean Architecture va Feature-Sliced Design (FSD) | [49-clean-architecture-fsd.md](konspektlar/49-clean-architecture-fsd.md) | ✅ Bajarildi |
 | 2026-09-06 | Yakshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v49) | [49-01-focus-trap-controller-v49.ts](amaliyot/49-01-focus-trap-controller-v49.ts) | ✅ Bajarildi |
 | 2026-09-07 | Dushanba | 📚 Nazariya | Senior Frontend Interview: System Design va Arxitektura | [50-frontend-system-design.md](konspektlar/50-frontend-system-design.md) | ✅ Bajarildi |
+| 2026-09-08 | Seshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v50) | [50-01-focus-trap-controller-v50.ts](amaliyot/50-01-focus-trap-controller-v50.ts) | ✅ Bajarildi |
