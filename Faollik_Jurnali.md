@@ -103,3 +103,4 @@
 | 2026-09-07 | Dushanba | 📚 Nazariya | Senior Frontend Interview: System Design va Arxitektura | [50-frontend-system-design.md](konspektlar/50-frontend-system-design.md) | ✅ Bajarildi |
 | 2026-09-08 | Seshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v50) | [50-01-focus-trap-controller-v50.ts](amaliyot/50-01-focus-trap-controller-v50.ts) | ✅ Bajarildi |
 | 2026-09-09 | Chorshanba | 📚 Nazariya | HTML5 Semantik Teglari, SEO va Accessibility (a11y) Arxitekturasi - 2-qism: Chuqurlashtirilgan Amaliyot va Case Study | [51-01-html5-semantics-a11y-part2.md](konspektlar/51-01-html5-semantics-a11y-part2.md) | ✅ Bajarildi |
+| 2026-09-10 | Payshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v51) | [51-01-focus-trap-controller-v51.ts](amaliyot/51-01-focus-trap-controller-v51.ts) | ✅ Bajarildi |
