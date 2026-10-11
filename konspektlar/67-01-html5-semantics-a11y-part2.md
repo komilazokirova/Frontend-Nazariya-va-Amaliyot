@@ -4,3 +4,5 @@ Ushbu konspektda HTML5 mavzusining murakkab amaliy holatlari, korporativ arxitek
 
 ---
 
+## 💡 Asosiy xulosalar va arxitektura qoidalari:
+1. Kod tozaligi (Clean Code) va modul ajratish.
