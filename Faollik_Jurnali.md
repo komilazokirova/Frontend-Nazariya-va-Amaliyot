@@ -144,3 +144,4 @@
 | 2026-10-18 | Yakshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v70) | [70-01-focus-trap-controller-v70.ts](amaliyot/70-01-focus-trap-controller-v70.ts) | ✅ Bajarildi |
 | 2026-10-19 | Dushanba | 📚 Nazariya | HTML5 Semantik Teglari, SEO va Accessibility (a11y) Arxitekturasi - 2-qism: Chuqurlashtirilgan Amaliyot va Case Study | [71-01-html5-semantics-a11y-part2.md](konspektlar/71-01-html5-semantics-a11y-part2.md) | ✅ Bajarildi |
 | 2026-10-20 | Seshanba | 💻 Amaliyot | DOM Manipulation va Focus-Trap Accessible Modal Controller (Kengaytirilgan v71) | [71-01-focus-trap-controller-v71.ts](amaliyot/71-01-focus-trap-controller-v71.ts) | ✅ Bajarildi |
+| 2026-10-21 | Chorshanba | 📚 Nazariya | HTML5 Semantik Teglari, SEO va Accessibility (a11y) Arxitekturasi - 2-qism: Chuqurlashtirilgan Amaliyot va Case Study | [72-01-html5-semantics-a11y-part2.md](konspektlar/72-01-html5-semantics-a11y-part2.md) | ✅ Bajarildi |
