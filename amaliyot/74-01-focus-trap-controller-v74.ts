@@ -25,3 +25,12 @@ export function createFocusTrap(element: HTMLElement) {
     } else {
       if (document.activeElement === lastElement) {
         firstElement.focus();
+        e.preventDefault();
+      }
+    }
+  }
+
+  element.addEventListener('keydown', handleKeyDown);
+  firstElement?.focus();
+
+  return {
