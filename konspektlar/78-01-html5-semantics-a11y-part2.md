@@ -3,3 +3,4 @@
 Ushbu konspektda HTML5 mavzusining murakkab amaliy holatlari, korporativ arxitekturada qo'llanilishi va intervyularda eng ko'p tushadigan muammolar ko'rib chiqiladi.
 
 ---
+
