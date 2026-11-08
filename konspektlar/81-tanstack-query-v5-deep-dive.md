@@ -18,3 +18,8 @@ TanStack Query — asinxron server holatini (Server State) boshqarish, keshlasht
      onSuccess: () => {
        // Keshni yaroqsiz qilib, avtomatik yangi ma'lumotni yuklash
        queryClient.invalidateQueries({ queryKey: ['todos'] });
+     },
+   });
+   ```
+
+3. **Optimistic Updates**:
