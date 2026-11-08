@@ -8,3 +8,8 @@ TanStack Query — asinxron server holatini (Server State) boshqarish, keshlasht
    * `gcTime`: Ishlatilmayotgan (unmounted) kesh xotirada qancha vaqt saqlanishi (default: 5 daqiqa).
 
 2. **Query Invalidation (Keshni yangilash)**:
+   ```typescript
+   import { useMutation, useQueryClient } from '@tanstack/react-query';
+
+   const queryClient = useQueryClient();
+
