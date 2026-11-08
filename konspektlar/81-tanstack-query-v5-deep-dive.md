@@ -13,3 +13,8 @@ TanStack Query — asinxron server holatini (Server State) boshqarish, keshlasht
 
    const queryClient = useQueryClient();
 
+   const mutation = useMutation({
+     mutationFn: updateTodo,
+     onSuccess: () => {
+       // Keshni yaroqsiz qilib, avtomatik yangi ma'lumotni yuklash
+       queryClient.invalidateQueries({ queryKey: ['todos'] });
