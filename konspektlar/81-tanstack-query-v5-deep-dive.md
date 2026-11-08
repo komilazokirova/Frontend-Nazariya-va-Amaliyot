@@ -23,3 +23,4 @@ TanStack Query — asinxron server holatini (Server State) boshqarish, keshlasht
    ```
 
 3. **Optimistic Updates**:
+   Server javobini kutmasdan UI ni bir zumda yangilash va xatolik bo'lsa orqaga qaytarish (`rollback`).
