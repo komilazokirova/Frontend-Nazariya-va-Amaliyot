@@ -28,3 +28,9 @@ export function useInfiniteScroll(
     const observer = new IntersectionObserver(handleIntersect, {
       rootMargin,
       threshold: 0.1,
+    });
+
+    observer.observe(el);
+
+    return () => {
+      observer.disconnect();
