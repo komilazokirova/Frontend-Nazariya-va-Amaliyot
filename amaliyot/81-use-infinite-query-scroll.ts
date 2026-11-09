@@ -16,3 +16,9 @@ export function useInfiniteScroll(
       const [entry] = entries;
       if (entry.isIntersecting && enabled) {
         onIntersect();
+      }
+    },
+    [onIntersect, enabled]
+  );
+
+  useEffect(() => {
