@@ -22,3 +22,9 @@ export function useInfiniteScroll(
   );
 
   useEffect(() => {
+    const el = targetRef.current;
+    if (!el || !enabled) return;
+
+    const observer = new IntersectionObserver(handleIntersect, {
+      rootMargin,
+      threshold: 0.1,
