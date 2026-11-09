@@ -34,3 +34,8 @@ export function useInfiniteScroll(
 
     return () => {
       observer.disconnect();
+    };
+  }, [handleIntersect, enabled, rootMargin]);
+
+  return { targetRef };
+}
