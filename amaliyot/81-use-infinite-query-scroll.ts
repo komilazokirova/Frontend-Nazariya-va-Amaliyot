@@ -10,3 +10,9 @@ export function useInfiniteScroll(
 ) {
   const { enabled = true, rootMargin = '100px' } = options;
   const targetRef = useRef<HTMLDivElement | null>(null);
+
+  const handleIntersect = useCallback(
+    (entries: IntersectionObserverEntry[]) => {
+      const [entry] = entries;
+      if (entry.isIntersecting && enabled) {
+        onIntersect();
