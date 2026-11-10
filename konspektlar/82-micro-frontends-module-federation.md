@@ -1,4 +1,4 @@
-# Micro-Frontends Arxitekturasi: Module Federation, Single-SPA va Web Components
+# 🧩 Micro-Frontends Arxitekturasi
 
-*Yuklangan sana: 2026-11-10*
+Katta hajmdagi monolit veb-ilovalarni mustaqil jamoalar tomonidan ishlab chiqiladigan va mustaqil deploy qilinadigan kichik ilovalarga bo'lish usuli.
 
