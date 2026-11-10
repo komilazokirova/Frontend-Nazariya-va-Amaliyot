@@ -4,3 +4,5 @@ Katta hajmdagi monolit veb-ilovalarni mustaqil jamoalar tomonidan ishlab chiqila
 
 ## Asosiy Integratsiya Yondashuvlari:
 1. **Module Federation (Webpack 5 & Vite)**:
+   * Brauzer runtime vaqtida tashqi mustaqil repozitoriyadagi komponentlarni yuklab olish imkonini beradi.
+   * Umumiy bog'liqliklarni (`react`, `react-dom`) bir necha bor yuklamasdan `shared` qilib bittalaydi.
