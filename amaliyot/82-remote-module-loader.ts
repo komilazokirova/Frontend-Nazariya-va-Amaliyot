@@ -40,3 +40,6 @@ export async function loadRemoteModule<T = any>(options: LoadRemoteOptions): Pro
       reject(new Error(`Remote skript yuklashda xatolik: ${url}`));
     };
 
+    document.head.appendChild(script);
+  });
+}
