@@ -26,3 +26,10 @@ export async function loadRemoteModule<T = any>(options: LoadRemoteOptions): Pro
       clearTimeout(timer);
       try {
         const container = (window as any)[scope];
+        await container.init((window as any).__webpack_share_scopes__?.default || {});
+        const factory = await container.get(module);
+        const Module = factory();
+        resolve(Module);
+      } catch (err) {
+        reject(err);
+      }
