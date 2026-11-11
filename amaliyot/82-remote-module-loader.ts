@@ -12,3 +12,10 @@ export interface LoadRemoteOptions {
 export async function loadRemoteModule<T = any>(options: LoadRemoteOptions): Promise<T> {
   const { url, scope, module, timeoutMs = 8000 } = options;
 
+  return new Promise((resolve, reject) => {
+    const timer = setTimeout(() => {
+      reject(new Error(`Remote module yuklanishi vaqtida timeout bo'ldi: ${url}`));
+    }, timeoutMs);
+
+    const script = document.createElement('script');
+    script.src = url;
