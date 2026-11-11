@@ -33,3 +33,10 @@ export async function loadRemoteModule<T = any>(options: LoadRemoteOptions): Pro
       } catch (err) {
         reject(err);
       }
+    };
+
+    script.onerror = () => {
+      clearTimeout(timer);
+      reject(new Error(`Remote skript yuklashda xatolik: ${url}`));
+    };
+
