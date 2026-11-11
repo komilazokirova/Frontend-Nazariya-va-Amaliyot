@@ -19,3 +19,10 @@ export async function loadRemoteModule<T = any>(options: LoadRemoteOptions): Pro
 
     const script = document.createElement('script');
     script.src = url;
+    script.type = 'text/javascript';
+    script.async = true;
+
+    script.onload = async () => {
+      clearTimeout(timer);
+      try {
+        const container = (window as any)[scope];
