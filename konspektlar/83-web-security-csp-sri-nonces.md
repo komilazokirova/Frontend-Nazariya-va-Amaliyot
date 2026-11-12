@@ -13,3 +13,7 @@ Content-Security-Policy: default-src 'self'; script-src 'self' 'nonce-rAnd0m123'
 CDN dan yuklanayotgan skriptlar o'zgartirilmaganligini kriptografik xesh (SHA-384) bilan tekshirish:
 ```html
 <script src="https://cdn.example.com/lib.js" integrity="sha384-..." crossorigin="anonymous"></script>
+```
+
+## 3. CORS (Cross-Origin Resource Sharing):
+Preflight `OPTIONS` so'rovi va `Access-Control-Allow-Origin` xavfsizlik qoidalari.
