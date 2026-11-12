@@ -166,3 +166,4 @@
 | 2026-11-09 | Dushanba | 💻 Amaliyot | Custom Infinite Scroll Hook with IntersectionObserver and TanStack Query | [81-use-infinite-query-scroll.ts](amaliyot/81-use-infinite-query-scroll.ts) | ✅ Bajarildi |
 | 2026-11-10 | Seshanba | 📚 Nazariya | Micro-Frontends Arxitekturasi: Module Federation, Single-SPA va Web Components | [82-micro-frontends-module-federation.md](konspektlar/82-micro-frontends-module-federation.md) | ✅ Bajarildi |
 | 2026-11-11 | Chorshanba | 💻 Amaliyot | Dynamic Remote Module Loader with Fallback and Timeout in TypeScript | [82-remote-module-loader.ts](amaliyot/82-remote-module-loader.ts) | ✅ Bajarildi |
+| 2026-11-12 | Payshanba | 📚 Nazariya | Web Security Chuqurlashtirilgan Tahlili: CSP, SRI, CORS va Nonce Mexanizmlari | [83-web-security-csp-sri-nonces.md](konspektlar/83-web-security-csp-sri-nonces.md) | ✅ Bajarildi |
