@@ -1,4 +1,6 @@
-# Web Security Chuqurlashtirilgan Tahlili: CSP, SRI, CORS va Nonce Mexanizmlari
+# 🛡️ Web Security Chuqurlashtirilgan Tahlili
 
-*Yuklangan sana: 2026-11-12*
+Brauzer darajasida zamonaviy xavfsizlik protokollari:
 
+## 1. Content Security Policy (CSP):
+XSS hujumlariga qarshi eng kuchli qalqon:
