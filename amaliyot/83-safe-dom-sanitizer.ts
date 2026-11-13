@@ -38,3 +38,13 @@ export function sanitizeHtml(rawHtml: string): string {
           if (href.startsWith('javascript:')) {
             el.removeAttribute('href');
           } else {
+            el.setAttribute('rel', 'noopener noreferrer');
+          }
+        }
+
+        cleanNode(el);
+      }
+    }
+  }
+
+  cleanNode(doc.body);
