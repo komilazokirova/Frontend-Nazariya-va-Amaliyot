@@ -28,3 +28,13 @@ export function sanitizeHtml(rawHtml: string): string {
         // Ruxsat berilmagan atributlarni tozalash (masalan onclick, onload)
         for (const attr of Array.from(el.attributes)) {
           if (!ALLOWED_ATTRS.has(attr.name.toLowerCase())) {
+            el.removeAttribute(attr.name);
+          }
+        }
+
+        // Havolalarda xavfsizlik (target="_blank" rel="noopener noreferrer")
+        if (el.tagName === 'A') {
+          const href = el.getAttribute('href') || '';
+          if (href.startsWith('javascript:')) {
+            el.removeAttribute('href');
+          } else {
