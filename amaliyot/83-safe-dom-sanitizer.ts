@@ -48,3 +48,5 @@ export function sanitizeHtml(rawHtml: string): string {
   }
 
   cleanNode(doc.body);
+  return doc.body.innerHTML;
+}
