@@ -18,3 +18,13 @@ export function sanitizeHtml(rawHtml: string): string {
     const children = Array.from(node.childNodes);
     for (const child of children) {
       if (child.nodeType === Node.ELEMENT_NODE) {
+        const el = child as HTMLElement;
+        if (!ALLOWED_TAGS.has(el.tagName)) {
+          // Xavfli tegni matnga almashtirish yoki olib tashlash
+          el.replaceWith(...Array.from(el.childNodes));
+          continue;
+        }
+
+        // Ruxsat berilmagan atributlarni tozalash (masalan onclick, onload)
+        for (const attr of Array.from(el.attributes)) {
+          if (!ALLOWED_ATTRS.has(attr.name.toLowerCase())) {
