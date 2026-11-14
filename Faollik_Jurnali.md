@@ -168,3 +168,4 @@
 | 2026-11-11 | Chorshanba | 💻 Amaliyot | Dynamic Remote Module Loader with Fallback and Timeout in TypeScript | [82-remote-module-loader.ts](amaliyot/82-remote-module-loader.ts) | ✅ Bajarildi |
 | 2026-11-12 | Payshanba | 📚 Nazariya | Web Security Chuqurlashtirilgan Tahlili: CSP, SRI, CORS va Nonce Mexanizmlari | [83-web-security-csp-sri-nonces.md](konspektlar/83-web-security-csp-sri-nonces.md) | ✅ Bajarildi |
 | 2026-11-13 | Juma | 💻 Amaliyot | Zero-Dependency Safe HTML Sanitizer and DOM Node Purifier | [83-safe-dom-sanitizer.ts](amaliyot/83-safe-dom-sanitizer.ts) | ✅ Bajarildi |
+| 2026-11-14 | Shanba | 📚 Nazariya | Progressive Web Apps (PWA): Service Worker Lifecycle va Cache Storage API | [84-pwa-service-workers-cache-api.md](konspektlar/84-pwa-service-workers-cache-api.md) | ✅ Bajarildi |
