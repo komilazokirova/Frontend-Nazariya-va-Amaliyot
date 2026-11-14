@@ -8,3 +8,5 @@ Service Worker — brauzer va tarmoq o'rtasida turuvchi dasturlashtiriladigan pr
 3. **Activation (`activate` hodisasi)**: Eski kesh versiyalari tozalanadi va boshqaruv yangi versiyaga o'tadi.
 4. **Fetch (`fetch` hodisasi)**: Har qanday tarmoq so'rovi ushlanadi va kesh strategiyasi bo'yicha javob beriladi.
 
+## Kesh Strategiyalari:
+* **Cache First**: Avval keshdan qidirish (statik rasmlar, shriftlar uchun).
