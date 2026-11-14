@@ -10,3 +10,5 @@ Service Worker — brauzer va tarmoq o'rtasida turuvchi dasturlashtiriladigan pr
 
 ## Kesh Strategiyalari:
 * **Cache First**: Avval keshdan qidirish (statik rasmlar, shriftlar uchun).
+* **Network First**: Avval tarmoqdan olish, internet bo'lmasa keshdan berish (yangiliklar, real-time ma'lumotlar).
+* **Stale While Revalidate**: Avval keshdagi eski ma'lumotni ko'rsatib, orqada tarmoqdan yangilash.
