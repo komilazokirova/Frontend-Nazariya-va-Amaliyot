@@ -1,4 +1,4 @@
-# Progressive Web Apps (PWA): Service Worker Lifecycle va Cache Storage API
+# 📱 Progressive Web Apps (PWA) va Service Workers
 
-*Yuklangan sana: 2026-11-14*
+Service Worker — brauzer va tarmoq o'rtasida turuvchi dasturlashtiriladigan proksi (proxy) serverdir.
 
