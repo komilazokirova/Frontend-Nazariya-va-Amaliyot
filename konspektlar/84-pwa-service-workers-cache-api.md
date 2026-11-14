@@ -4,3 +4,5 @@ Service Worker — brauzer va tarmoq o'rtasida turuvchi dasturlashtiriladigan pr
 
 ## Service Worker Hayot Sikli (Lifecycle):
 1. **Registration**: Skript brauzerda ro'yxatdan o'tadi (`navigator.serviceWorker.register`).
+2. **Installation (`install` hodisasi)**: Asosiy statik resurslar (HTML, CSS, asosiy piktogrammalar) keshga joylanadi.
+3. **Activation (`activate` hodisasi)**: Eski kesh versiyalari tozalanadi va boshqaruv yangi versiyaga o'tadi.
