@@ -58,3 +58,5 @@ export class OfflineSyncManager {
     } catch {
       return [];
     }
+  }
+}
