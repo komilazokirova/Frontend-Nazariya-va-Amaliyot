@@ -46,3 +46,15 @@ export class OfflineSyncManager {
       } catch (err) {
         remaining.push(action);
       }
+    }
+
+    localStorage.setItem(this.queueKey, JSON.stringify(remaining));
+  }
+
+  private getQueue(): QueuedAction[] {
+    try {
+      const data = localStorage.getItem(this.queueKey);
+      return data ? JSON.parse(data) : [];
+    } catch {
+      return [];
+    }
