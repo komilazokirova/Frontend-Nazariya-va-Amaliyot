@@ -22,3 +22,15 @@ export class OfflineSyncManager {
       id: crypto.randomUUID(),
       timestamp: Date.now(),
     };
+    queue.push(newAction);
+    localStorage.setItem(this.queueKey, JSON.stringify(queue));
+
+    if (navigator.onLine) {
+      await this.syncPendingActions();
+    }
+  }
+
+  public async syncPendingActions(): Promise<void> {
+    const queue = this.getQueue();
+    if (queue.length === 0) return;
+
