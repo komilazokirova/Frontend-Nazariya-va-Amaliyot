@@ -34,3 +34,15 @@ export class OfflineSyncManager {
     const queue = this.getQueue();
     if (queue.length === 0) return;
 
+    const remaining: QueuedAction[] = [];
+
+    for (const action of queue) {
+      try {
+        await fetch(action.url, {
+          method: action.method,
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(action.body),
+        });
+      } catch (err) {
+        remaining.push(action);
+      }
