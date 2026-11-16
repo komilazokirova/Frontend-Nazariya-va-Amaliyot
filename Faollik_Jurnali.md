@@ -170,3 +170,4 @@
 | 2026-11-13 | Juma | 💻 Amaliyot | Zero-Dependency Safe HTML Sanitizer and DOM Node Purifier | [83-safe-dom-sanitizer.ts](amaliyot/83-safe-dom-sanitizer.ts) | ✅ Bajarildi |
 | 2026-11-14 | Shanba | 📚 Nazariya | Progressive Web Apps (PWA): Service Worker Lifecycle va Cache Storage API | [84-pwa-service-workers-cache-api.md](konspektlar/84-pwa-service-workers-cache-api.md) | ✅ Bajarildi |
 | 2026-11-15 | Yakshanba | 💻 Amaliyot | Offline-First Sync Manager with IndexedDB and Mutation Queue | [84-offline-sync-manager.ts](amaliyot/84-offline-sync-manager.ts) | ✅ Bajarildi |
+| 2026-11-16 | Dushanba | 📚 Nazariya | WebAssembly (Wasm) va Web Workers: Brauzerda Multithreading | [85-webassembly-web-workers-multithreading.md](konspektlar/85-webassembly-web-workers-multithreading.md) | ✅ Bajarildi |
