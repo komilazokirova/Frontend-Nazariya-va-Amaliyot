@@ -1,4 +1,4 @@
-# WebAssembly (Wasm) va Web Workers: Brauzerda Multithreading
+# ⚙️ WebAssembly (Wasm) va Web Workers
 
-*Yuklangan sana: 2026-11-16*
+JavaScript asosiy oqimi (Main Thread) faqat bitta bo'lgani uchun og'ir matematik hisob-kitoblar UI ni muzlatib qo'yishi mumkin.
 
