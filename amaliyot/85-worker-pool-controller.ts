@@ -43,3 +43,12 @@ export class WorkerPool<TTask, TResult> {
     };
 
     const cleanup = () => {
+      worker.removeEventListener('message', onMessage);
+      worker.removeEventListener('error', onError);
+    };
+
+    worker.addEventListener('message', onMessage);
+    worker.addEventListener('error', onError);
+    worker.postMessage(task);
+  }
+
