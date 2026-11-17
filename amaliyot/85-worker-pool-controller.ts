@@ -25,3 +25,12 @@ export class WorkerPool<TTask, TResult> {
   private dispatchNext() {
     if (this.availableWorkers.length === 0 || this.taskQueue.length === 0) return;
 
+    const worker = this.availableWorkers.pop()!;
+    const { task, resolve, reject } = this.taskQueue.shift()!;
+
+    const onMessage = (e: MessageEvent) => {
+      cleanup();
+      this.availableWorkers.push(worker);
+      this.dispatchNext();
+      resolve(e.data);
+    };
