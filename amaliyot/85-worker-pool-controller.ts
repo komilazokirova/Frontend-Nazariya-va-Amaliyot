@@ -16,3 +16,12 @@ export class WorkerPool<TTask, TResult> {
   }
 
   public runTask(task: TTask): Promise<TResult> {
+    return new Promise((resolve, reject) => {
+      this.taskQueue.push({ task, resolve, reject });
+      this.dispatchNext();
+    });
+  }
+
+  private dispatchNext() {
+    if (this.availableWorkers.length === 0 || this.taskQueue.length === 0) return;
+
