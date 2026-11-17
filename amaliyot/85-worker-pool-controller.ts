@@ -34,3 +34,12 @@ export class WorkerPool<TTask, TResult> {
       this.dispatchNext();
       resolve(e.data);
     };
+
+    const onError = (err: ErrorEvent) => {
+      cleanup();
+      this.availableWorkers.push(worker);
+      this.dispatchNext();
+      reject(err);
+    };
+
+    const cleanup = () => {
