@@ -52,3 +52,7 @@ export class WorkerPool<TTask, TResult> {
     worker.postMessage(task);
   }
 
+  public terminate() {
+    this.workers.forEach(w => w.terminate());
+  }
+}
