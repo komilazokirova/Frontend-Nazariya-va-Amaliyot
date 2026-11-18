@@ -1,4 +1,4 @@
-# Next.js 15+ Yangiliklari: Partial Prerendering (PPR) va Async Request APIs
+# 🚀 Next.js 15+ Yangiliklari va Partial Prerendering (PPR)
 
-*Yuklangan sana: 2026-11-18*
+Next.js 15 dasturlash modeliga bir qator inqilobiy o'zgarishlarni olib kirdi.
 
