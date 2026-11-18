@@ -8,3 +8,7 @@ Bitta sahifaning o'zida ham statik, ham dinamik qismlarni birlashtirish:
 * Ichidagi dinamik komponentlar esa `<Suspense>` orqali serverda parallel hisoblanib, oqim (streaming) shaklida uzatiladi.
 
 ## 2. Asynchronous Request APIs:
+`cookies()`, `headers()`, `params` va `searchParams` endi asinxron (`await cookies()`) bo'ldi. Bu serverga so'rovni erta optimizatsiya qilishga imkon beradi.
+
+## 3. Server Actions Xavfsizligi:
+Dead code elimination va maxsus shifrlangan action ID lar orqali kod xavfsizligini ta'minlash.
