@@ -172,3 +172,4 @@
 | 2026-11-15 | Yakshanba | 💻 Amaliyot | Offline-First Sync Manager with IndexedDB and Mutation Queue | [84-offline-sync-manager.ts](amaliyot/84-offline-sync-manager.ts) | ✅ Bajarildi |
 | 2026-11-16 | Dushanba | 📚 Nazariya | WebAssembly (Wasm) va Web Workers: Brauzerda Multithreading | [85-webassembly-web-workers-multithreading.md](konspektlar/85-webassembly-web-workers-multithreading.md) | ✅ Bajarildi |
 | 2026-11-17 | Seshanba | 💻 Amaliyot | Worker Pool Controller for Parallel CPU-Intensive Tasks | [85-worker-pool-controller.ts](amaliyot/85-worker-pool-controller.ts) | ✅ Bajarildi |
+| 2026-11-18 | Chorshanba | 📚 Nazariya | Next.js 15+ Yangiliklari: Partial Prerendering (PPR) va Async Request APIs | [86-nextjs-ppr-and-modern-apis.md](konspektlar/86-nextjs-ppr-and-modern-apis.md) | ✅ Bajarildi |
