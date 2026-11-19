@@ -34,3 +34,15 @@ export class FormManager<T extends Record<string, any>> {
       this.state.errors = this.validate(this.state.values);
       this.state.isValid = Object.keys(this.state.errors).length === 0;
       if (!this.state.isValid) {
+        this.notify();
+        return;
+      }
+    }
+
+    this.state.isSubmitting = true;
+    this.notify();
+
+    try {
+      await onSubmit(this.state.values);
+    } finally {
+      this.state.isSubmitting = false;
