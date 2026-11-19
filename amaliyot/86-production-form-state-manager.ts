@@ -22,3 +22,15 @@ export class FormManager<T extends Record<string, any>> {
 
   public setField<K extends keyof T>(field: K, value: T[K]) {
     this.state.values[field] = value;
+    if (this.validate) {
+      this.state.errors = this.validate(this.state.values);
+      this.state.isValid = Object.keys(this.state.errors).length === 0;
+    }
+    this.notify();
+  }
+
+  public async handleSubmit(onSubmit: (values: T) => Promise<void>) {
+    if (this.validate) {
+      this.state.errors = this.validate(this.state.values);
+      this.state.isValid = Object.keys(this.state.errors).length === 0;
+      if (!this.state.isValid) {
