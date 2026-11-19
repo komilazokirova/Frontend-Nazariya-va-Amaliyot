@@ -58,3 +58,5 @@ export class FormManager<T extends Record<string, any>> {
 
   private notify() {
     this.listeners.forEach(cb => cb({ ...this.state }));
+  }
+}
