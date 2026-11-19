@@ -1,0 +1,36 @@
+name: Daily Frontend Mastery Activity
+
+on:
+  schedule:
+    # Runs at 04:00 UTC (09:00 Tashkent) and 13:00 UTC (18:00 Tashkent) every day
+    - cron: '0 4,13 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  daily-lesson:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate daily lesson & activity log
+        run: node scripts/publish-daily.cjs
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "feat(daily): update daily frontend curriculum and activity log"
+          commit_user_name: "Komila Zokirova"
+          commit_user_email: "zokirovakomila500@gmail.com"
+          commit_author: "Komila Zokirova <zokirovakomila500@gmail.com>"
+          branch: main
