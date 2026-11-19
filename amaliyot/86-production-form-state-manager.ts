@@ -46,3 +46,15 @@ export class FormManager<T extends Record<string, any>> {
       await onSubmit(this.state.values);
     } finally {
       this.state.isSubmitting = false;
+      this.notify();
+    }
+  }
+
+  public subscribe(listener: (state: FormState<T>) => void): () => void {
+    this.listeners.add(listener);
+    listener(this.state);
+    return () => this.listeners.delete(listener);
+  }
+
+  private notify() {
+    this.listeners.forEach(cb => cb({ ...this.state }));
