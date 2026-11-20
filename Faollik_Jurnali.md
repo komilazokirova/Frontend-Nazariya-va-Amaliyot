@@ -174,3 +174,4 @@
 | 2026-11-17 | Seshanba | 💻 Amaliyot | Worker Pool Controller for Parallel CPU-Intensive Tasks | [85-worker-pool-controller.ts](amaliyot/85-worker-pool-controller.ts) | ✅ Bajarildi |
 | 2026-11-18 | Chorshanba | 📚 Nazariya | Next.js 15+ Yangiliklari: Partial Prerendering (PPR) va Async Request APIs | [86-nextjs-ppr-and-modern-apis.md](konspektlar/86-nextjs-ppr-and-modern-apis.md) | ✅ Bajarildi |
 | 2026-11-19 | Payshanba | 💻 Amaliyot | Production-Grade Form State Manager with Zod Validation, Actions and Optimistic UI | [86-production-form-state-manager.ts](amaliyot/86-production-form-state-manager.ts) | ✅ Bajarildi |
+| 2026-11-20 | Juma | 💻 Amaliyot | Advanced CSS: View Transitions API va Morph Animations | [2026-11-20-view-transitions-morph.ts](amaliyot/2026-11-20-view-transitions-morph.ts) | ✅ Bajarildi |
