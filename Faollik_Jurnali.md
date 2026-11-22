@@ -179,3 +179,4 @@
 | 2026-11-21 | Shanba | 📚 Nazariya | Next.js Route Intercepting va Parallel Modals Pattern | [2026-11-21-route-intercepting-parallel-modals.md](konspektlar/2026-11-21-route-intercepting-parallel-modals.md) | ✅ Bajarildi |
 | 2026-11-22 | Yakshanba | 💻 Amaliyot | Web Components: Custom Elements va Shadow DOM | [2026-11-22-web-components-shadow-dom.ts](amaliyot/2026-11-22-web-components-shadow-dom.ts) | ✅ Bajarildi |
 | 2026-11-22 | Yakshanba | 💻 Amaliyot | Web Audio API va Audio Visualization in Browser | [2026-11-22-web-audio-api-visualizer.ts](amaliyot/2026-11-22-web-audio-api-visualizer.ts) | ✅ Bajarildi |
+| 2026-11-23 | Dushanba | 📚 Nazariya | Advanced CSS: View Transitions API va Morph Animations | [2026-11-23-view-transitions-morph.md](konspektlar/2026-11-23-view-transitions-morph.md) | ✅ Bajarildi |
