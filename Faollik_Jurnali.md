@@ -181,3 +181,4 @@
 | 2026-11-22 | Yakshanba | 💻 Amaliyot | Web Audio API va Audio Visualization in Browser | [2026-11-22-web-audio-api-visualizer.ts](amaliyot/2026-11-22-web-audio-api-visualizer.ts) | ✅ Bajarildi |
 | 2026-11-23 | Dushanba | 📚 Nazariya | Advanced CSS: View Transitions API va Morph Animations | [2026-11-23-view-transitions-morph.md](konspektlar/2026-11-23-view-transitions-morph.md) | ✅ Bajarildi |
 | 2026-11-23 | Dushanba | 📚 Nazariya | Node.js va Edge Runtime Arxitekturasi | [2026-11-23-node-vs-edge-runtime.md](konspektlar/2026-11-23-node-vs-edge-runtime.md) | ✅ Bajarildi |
+| 2026-11-24 | Seshanba | 💻 Amaliyot | Next.js Route Intercepting va Parallel Modals Pattern | [2026-11-24-route-intercepting-parallel-modals.ts](amaliyot/2026-11-24-route-intercepting-parallel-modals.ts) | ✅ Bajarildi |
