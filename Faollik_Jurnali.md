@@ -182,3 +182,4 @@
 | 2026-11-23 | Dushanba | 📚 Nazariya | Advanced CSS: View Transitions API va Morph Animations | [2026-11-23-view-transitions-morph.md](konspektlar/2026-11-23-view-transitions-morph.md) | ✅ Bajarildi |
 | 2026-11-23 | Dushanba | 📚 Nazariya | Node.js va Edge Runtime Arxitekturasi | [2026-11-23-node-vs-edge-runtime.md](konspektlar/2026-11-23-node-vs-edge-runtime.md) | ✅ Bajarildi |
 | 2026-11-24 | Seshanba | 💻 Amaliyot | Next.js Route Intercepting va Parallel Modals Pattern | [2026-11-24-route-intercepting-parallel-modals.ts](amaliyot/2026-11-24-route-intercepting-parallel-modals.ts) | ✅ Bajarildi |
+| 2026-11-25 | Chorshanba | 📚 Nazariya | TypeScript Monads va Functional Error Handling (Result Type) | [2026-11-25-typescript-monads-result-type.md](konspektlar/2026-11-25-typescript-monads-result-type.md) | ✅ Bajarildi |
