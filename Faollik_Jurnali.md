@@ -185,3 +185,4 @@
 | 2026-11-25 | Chorshanba | 📚 Nazariya | TypeScript Monads va Functional Error Handling (Result Type) | [2026-11-25-typescript-monads-result-type.md](konspektlar/2026-11-25-typescript-monads-result-type.md) | ✅ Bajarildi |
 | 2026-11-26 | Payshanba | 💻 Amaliyot | Server-Sent Events (SSE) va Realtime Data Streaming | [2026-11-26-server-sent-events-streaming.ts](amaliyot/2026-11-26-server-sent-events-streaming.ts) | ✅ Bajarildi |
 | 2026-11-27 | Juma | 📚 Nazariya | Node.js va Edge Runtime Arxitekturasi | [2026-11-27-node-vs-edge-runtime.md](konspektlar/2026-11-27-node-vs-edge-runtime.md) | ✅ Bajarildi |
+| 2026-11-28 | Shanba | 💻 Amaliyot | Server-Sent Events (SSE) va Realtime Data Streaming | [2026-11-28-server-sent-events-streaming.ts](amaliyot/2026-11-28-server-sent-events-streaming.ts) | ✅ Bajarildi |
